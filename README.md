@@ -1,4 +1,4 @@
-# DIGITAL (INTERACTIVO + DINÁMICO)
+# DIGITAL
 ### Procesos de Producción | Módulo Digital | 2020-2
 
 Nos basaremos en el trabajo desarrollado para el módulo gráfico. De allí tomaremos:
