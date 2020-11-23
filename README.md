@@ -11,7 +11,7 @@ Nos basaremos en el trabajo desarrollado para el módulo gráfico. De allí toma
 
 #### 1. Colores 
 
-Redefinir para pantalla - https://www.pantone.com/color-finder/
+Pasar de colores para impresión a colores para pantalla - https://www.pantone.com/color-finder/
 
 Cuidar el [contrast ratio](https://css-tricks.com/understanding-web-accessibility-color-contrast-guidelines-and-ratios/) para asegurar la legibilidad – https://webaim.org/resources/contrastchecker/
 
