@@ -104,7 +104,7 @@ Es importanta considerar que:
 
 4.1. Crear tres versiones para cada una de las imágenes que utilizaron en el fanzine y quieran utilizar en su versión digital, interactiva y dinámica. Cada una de tales versiones tendrá que responder a *smartphone (small)*, *tablet (medium)* o *desktop (large)*. 
 
-Para crear estas versiones, y debido a la gran [variedad de pantallas con tamaños y resoluciones distintas](http://screensiz.es/), no existen tamaños infalibles. Todo es relativo. 
+Para crear estas versiones, y debido a la gran [variedad de pantallas con tamaños y resoluciones distintas](http://screensiz.es/), no existen recetas infalibles. Todo es una apuesta. 
 
 Pero podemos quedar en un lugar suficientemente seguro considerando los tamaños de ancho de pantalla que usa [Bootstrap](https://getbootstrap.com/docs/4.5/layout/overview/#responsive-breakpoints) como referencia para sus cambios entre *smartphone (small)*, *tablet (medium)* y *desktop (large)*, que son, respectivamente: 576px, 768px y 992px.
 
