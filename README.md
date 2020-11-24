@@ -15,9 +15,11 @@ Pasar de colores para impresión a colores para pantalla → https://www.pantone
 
 Cuidar el contrast ratio para asegurar la legibilidad → https://webaim.org/resources/contrastchecker/
 
-Corresponde ajustar aquellos colores que no ofrecen un *contrast ratio* suficiente según las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1 → https://www.w3.org/TR/WCAG21/#contrast-minimum
+Corresponde ajustar aquellos colores que, al usar en relación de figura y fondo, no ofrecen un *contrast ratio* suficiente → https://www.w3.org/TR/WCAG21/#contrast-minimum
 
-Una vez tengan los colores definitivos, podremos hacer uso de variables CSS → [https://developer.mozilla.org/es/docs/Web/CSS/--*](https://developer.mozilla.org/es/docs/Web/CSS/--*)
+> A [contrast ratio](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) of 3:1 is the minimum level recommended by ISO-9241-3 and ANSI-HFES-100-1988 for standard text and vision. The 4.5:1 ratio is used in this provision to account for the loss in contrast that results from moderately low visual acuity, congenital or acquired color deficiencies, or the loss of contrast sensitivity that typically accompanies aging.
+
+Una vez tengan los colores definitivos, haremos uso de variables CSS → [https://developer.mozilla.org/es/docs/Web/CSS/--*](https://developer.mozilla.org/es/docs/Web/CSS/--*)
 
 **Más información en:**
 
