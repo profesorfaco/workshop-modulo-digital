@@ -89,15 +89,12 @@ Es importanta considerar que:
 
 > Siempre hay excepciones, siempre hay excusas para las sorpresas y los trucos. Pero tal vez podamos ponernos de acuerdo en que, en general, la tipografía puede realizar los siguientes servicios […] invitar al lector a entrar en el texto; mostrar el tenor y significado del texto; vincular el texto con otros elementos; inducir un estado de enérgico reposo, que es la condición ideal para la lectura (Bringhurst, 2008:31)
 
-3.2. Escoger una escala de cuerpos tipográficos que empice en un tamaño que permita inducir al estado de enérgico reposo en la lectura de los párrafos y trabaja despacia desde ahí → https://bootstrapcreative.com/bootstrap-text-sizes/
-
-Pueden establecer un tamaño para **párrafo**, para **párrafo destacado** (más grande), notas al margen (más pequeño) y distintos niveles de encabezados (un máximo de 6, con 1 título y 5 subtítulos).  
+3.2. Escoger una escala de cuerpos tipográficos que empice en un tamaño que permita inducir al estado de enérgico reposo en la lectura de los párrafos. Además de un un tamaño para **párrafo** (normal), **párrafo destacado** (más grande que lo normal) y notas al margen (más pequeño que lo normal), pueden establecer tamaños para distintos niveles de encabezados (un máximo de 6, con 1 título y 5 subtítulos en distintos tamaños) → https://bootstrapcreative.com/bootstrap-text-sizes/
 
 **Más información**
 
-- Low-Contrast Text Is Not the Answer → https://www.nngroup.com/articles/low-contrast/
-- The Elements of Typographic Style Applied to the Web → http://webtypography.net/
-- Typography Terms Cheat Sheet → https://www.nngroup.com/articles/typography-terms-ux/
+- *The Elements of Typographic Style Applied to the Web* → http://webtypography.net/
+- *Typography Terms Cheat Sheet* → https://www.nngroup.com/articles/typography-terms-ux/
 
 - - - - - - - - - - - - - - - - 
 
@@ -117,5 +114,9 @@ Podría ser que una imagen que se vea a pantalla completa en *smartphone (small)
 
 **Más información**
 
-- Lazy loading de imágenes ya forma parte del estándar HTML → https://carlosazaustre.es/lazy-loading-image
-- Use el atributo alt → https://www.w3.org/QA/Tips/altAttribute.html.es
+- *Lazy loading de imágenes ya forma parte del estándar HTML* → https://carlosazaustre.es/lazy-loading-image
+- *Use el atributo alt* → https://www.w3.org/QA/Tips/altAttribute.html.es
+
+- - - - - - - - - - - - - - - - 
+
+Cada versión digital, interactiva y dinámica de fanzine debe desarrollarse desde una plantilla que quedará disponible en este repositorio el día lunes 30 de noviembre. Su trabajo grupal será evaluado con el uso de una rúbrica que estará disponible en la misma fecha.
