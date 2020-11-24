@@ -4,7 +4,7 @@
 
 Partamos con una analogía: 
 
-Se ofrece puesto de trabajo en una empresa japonesa. Solo se requiere dominio del inglés. Tu lengua materna es el castellano, y dominas bien en inglés. 
+Se ofrece puesto de trabajo en una empresa japonesa. Solo se requiere dominio de inglés. Tu lengua materna es el castellano, y tienes un buen nivel de inglés. 
 
 ¿Cómo te iría en ese trabajo si es que, además de inglés, supieras algo de japonés? ¿Mejor, igual o peor? ¿Por qué?
 
@@ -14,7 +14,9 @@ Agreguemos una cita:
 
 Mezclemos la analogía y la cita: 
 
-A nivel de programación, los objetos digitales son archivos de texto. Como archivos de texto, se escriben. Ahora, cambiemos el dominio del japonés escrito por el dominio de algún lenguaje de descripción o programación de objetos digitales; ya comprenderás que no corresponde desalentarse si es que no escribes este tercer idioma mejor que un nativo al que se le exige escribrirlo, todos los días, de la mejor manera posible. Domina de la mejor manera posible tu lengua materna, apóyate en la lengua que te exijan, y, si viene al caso, aprovecha la tercera.
+A nivel de programación, los objetos digitales son archivos de texto. Como archivos de texto, se escriben. Ahora, cambiemos el dominio del japonés escrito por el dominio de algún lenguaje de programación de objetos digitales; no corresponde desalentarse si no puedes escribir este tercer idioma mejor que un nativo al que se le exige escribrirlo, todos los días, de la mejor manera posible. 
+
+**Domina de la mejor manera posible tu lengua materna y el idioma funcional para los intercambio y, si el contexto te lo exige, saca ventaja con el dominio de la tercera**.
 
 - - - - - - - - - - 
 
