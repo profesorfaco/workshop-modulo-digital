@@ -11,11 +11,20 @@ Nos basaremos en el trabajo desarrollado para el módulo gráfico. De allí toma
 
 #### 1. Colores 
 
-Pasar de colores para impresión a colores para pantalla - https://www.pantone.com/color-finder/
+Pasar de colores para impresión a colores para pantalla → https://www.pantone.com/color-finder/
 
-Cuidar el [contrast ratio](https://css-tricks.com/understanding-web-accessibility-color-contrast-guidelines-and-ratios/) para asegurar la legibilidad – https://webaim.org/resources/contrastchecker/
+Cuidar el contrast ratio para asegurar la legibilidad → https://webaim.org/resources/contrastchecker/
 
-Deberían ajustar los colores si el "contrast ratio" no entrega un valor suficiente según las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1 - 
+Priorizando la accesibilidad, corresponde ajustar aquellos colores que no entrega un "contrast ratio" según las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1 → https://www.w3.org/TR/WCAG21/#contrast-minimum
+
+Una vez tengan los colores definitivos, podremos hacer uso de variables CSS → https://developer.mozilla.org/es/docs/Web/CSS/--*
+
+**Más información en:**
+
+- *¿Cuáles son los códigos de color de HTML?* → https://htmlcolorcodes.com/es/
+
+- *Understanding Web Accessibility Color Contrast Guidelines and Ratios* → https://css-tricks.com/understanding-web-accessibility-color-contrast-guidelines-and-ratios/
+ 
 
 #### 2. Fuentes tipográficas
 
@@ -32,5 +41,3 @@ Guardarlas en JPG, GIF o PNG, con atención a los pesos resultantes – https:/
 #### 4. Texto
 
 Revisarlos en función de la lectura en web - https://www.jimdo.com/es/blog/escribir-contenido-pagina-web/ 
-
-
