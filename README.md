@@ -45,6 +45,8 @@ Para escribir estos lenguajes será necesario tener instalado en uno de los sigu
 
 Para las revisiones y publicación final, usaremos [GitHub](https://github.com/). 
 
+**Y para abordar lo que sigue conviene que los grupos organicen el aprendizaje sobre colores, textos, fuentes e imágenes, aprovechando los textos que continúan. Que una integrante se encargue de cada tema. Luego, si a grupos de 6 integrantes les resto 4, quedan 2: HTML y CSS.**
+
 - - - - - - - - - - - - - - - - 
 
 ### 1. colores 
@@ -108,10 +110,11 @@ Pero podemos quedar en un lugar suficientemente seguro considerando los tamaños
 
 Si ya tenemos un ancho para la imagen, nos falta un alto. En este punto podemos encontrar un lugar más seguro aprovechando [la relación de aspecto](https://es.wikipedia.org/wiki/Relaci%C3%B3n_de_aspecto) más probable; podría ser que una imagen que se vea a pantalla completa en *smartphone (small)* se acerque al formato Panavision (2.39:1). Una imagen que se vea a pantalla completa en *tablet (medium)* podría estar más cerca de la razón 3:2. Y podría ser que una imagen que se ve completa en *desktop (large)* esté más cerca del 16:9.
 
-4.2. Guardar copia de cada imagen (en JPG, GIF o PNG), con atención a los pesos resultantes → https://nbadiola.com/peso-ideal-fotografia-para-web/
+4.2. Guardar copia de cada imagen (en PNG, JPG o GIF), con atención a los pesos resultantes → https://nbadiola.com/peso-ideal-fotografia-para-web/
 
 **Más información**
 
+- *Optimización de imágenes* → https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html
 - *Lazy loading de imágenes ya forma parte del estándar HTML* → https://carlosazaustre.es/lazy-loading-image
 - *Use el atributo alt* → https://www.w3.org/QA/Tips/altAttribute.html.es
 
