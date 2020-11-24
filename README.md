@@ -54,6 +54,8 @@ Con estos elementos (operativos, perceptuales y simbólicos) describiremos y pro
 - *¿Cuáles son los códigos de color de HTML?* → https://htmlcolorcodes.com/es/
 
 - *Understanding Web Accessibility Color Contrast Guidelines and Ratios* → https://css-tricks.com/understanding-web-accessibility-color-contrast-guidelines-and-ratios/
+
+- - - - - - - - - - - - - - - - 
  
 ### 2. textos
 
@@ -68,6 +70,8 @@ Con estos elementos (operativos, perceptuales y simbólicos) describiremos y pro
 - *Concise, SCANNABLE, and Objective: How to Write for the Web* → https://www.nngroup.com/articles/how-users-read-on-the-web/
 
 - *Las 11 reglas de oro para escribir contenido en tu página web* → https://www.jimdo.com/es/blog/escribir-contenido-pagina-web/
+
+- - - - - - - - - - - - - - - - 
 
 ### 3. fuentes 
 
@@ -88,6 +92,8 @@ Pueden establecer un tamaño para **párrafo**, para **párrafo destacado** (má
 - The Elements of Typographic Style Applied to the Web → http://webtypography.net/
 
 - Typography Terms Cheat Sheet → https://www.nngroup.com/articles/typography-terms-ux/
+
+- - - - - - - - - - - - - - - - 
 
 ### 4. imágenes
 
