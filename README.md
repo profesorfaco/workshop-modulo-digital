@@ -14,7 +14,7 @@ Se ofrece puesto de trabajo en una empresa japonesa. Solo se requiere dominio de
 
 **Mezclemos la cita y la analogía**: 
 
-A nivel de programación, los objetos digitales son archivos de texto. Como archivos de texto, se escriben. Ahora, pensemos en el dominio del japonés escrito como el dominio de algún lenguaje de descripción o programación de objetos digitales. 
+Los objetos digitales son archivos de texto. Como archivos de texto, se escriben. Ahora, pensemos en el dominio del japonés escrito como el dominio de algún lenguaje de descripción o programación de objetos digitales. 
 
 No corresponde desalentarnos cuando no podemos escribir este tercer idioma al nivel de un nativo al que se le exige escribirlo, todos los días, de la mejor manera posible. 
 
