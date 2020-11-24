@@ -2,13 +2,13 @@
 
 ### Front End | Código fuente desde el diseño
 
-Partamos con una analogía: 
+**Partamos con una analogía**: 
 
 Se ofrece puesto de trabajo en una empresa japonesa. Solo se requiere dominio de inglés. Tu lengua materna es el castellano, y tienes un buen nivel de inglés. 
 
 ¿Cómo te iría en ese trabajo si es que, además de inglés, supieras algo de japonés? ¿Mejor, igual o peor? ¿Por qué?
 
-Agreguemos una cita:
+**Agreguemos una cita**:
 
 > Los objetos digitales aparecen ante los usuarios humanos como seres coloridos y visibles. **Al nivel de la programación son archivos de texto**; en el sistema operativo son códigos binarios; a nivel de las tarjetas de circuitos, son señales generadas por los valores del voltaje y la operación de entradas lógicas (Hui, 2017: 88)
 
