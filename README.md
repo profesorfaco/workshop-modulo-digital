@@ -28,7 +28,7 @@ A nivel de programación, los objetos digitales son archivos de texto. Como arch
 
 Nos basaremos en el trabajo desarrollado para el módulo gráfico. De allí tomaremos:
 
-1. colores
+1. [colores](#1. colores)
 2. textos
 3. fuentes
 4. imágenes
