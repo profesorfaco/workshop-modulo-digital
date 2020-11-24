@@ -33,15 +33,17 @@ Nos basaremos en el trabajo desarrollado para el módulo gráfico. De allí toma
 3. fuentes
 4. imágenes
 
+Con estos elementos (operativos, perceptuales y simbólicos) describiremos y programaremos una página web, tipo [landing page](https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje), que será la versión digital, interactiva y dinámica del fanzine; para describirla y programarla aprovecharemos [Bootstrap](https://getbootstrap.com/), lo que nos facilitará el trato con HTML, CSS y JavaScript.
+
 - - - - - - - - - - - - - - - - 
 
-### 1. Colores 
+### 1. colores 
 
-1.1. Cambiar sus colores para impresión (Pantone) por colores para pantalla (HEX/HTML) → https://www.pantone.com/color-finder/
+1.1. Cambiar sus colores para impresión (Pantone) por aspectos equivalentes en colores para pantalla (HEX/HTML) → https://www.pantone.com/color-finder/
 
 1.2. Revisar el *contrast ratio* para asegurar la legibilidad → https://webaim.org/resources/contrastchecker/
 
-1.3. Ajustar aquellos colores que no ofrecen un *contrast ratio* suficiente → https://www.w3.org/TR/WCAG21/#contrast-minimum
+1.3. Ajustar aquellos colores que ofrezca un *contrast ratio* insuficiente para negro (#000000) o blanco (#FFFFFF) puestos en nivel de figura (Foreground) y fondo (Background) → https://www.w3.org/TR/WCAG21/#contrast-minimum
 
 > A [contrast ratio](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) of 3:1 is the minimum level recommended by ISO-9241-3 and ANSI-HFES-100-1988 for standard text and vision. The 4.5:1 ratio is used in this provision to account for the loss in contrast that results from moderately low visual acuity, congenital or acquired color deficiencies, or the loss of contrast sensitivity that typically accompanies aging.
 
@@ -53,21 +55,41 @@ Nos basaremos en el trabajo desarrollado para el módulo gráfico. De allí toma
 
 - *Understanding Web Accessibility Color Contrast Guidelines and Ratios* → https://css-tricks.com/understanding-web-accessibility-color-contrast-guidelines-and-ratios/
  
-### 2. Texto
+### 2. textos
 
-2.1. Revisarlos en función de la lectura en web - https://www.jimdo.com/es/blog/escribir-contenido-pagina-web/
+2.1. Revisar la credibilidad del texto original → http://credibility.stanford.edu/guidelines/index.html
 
-2.2. - - -
+2.2. Establecer un tono de voz pertinente al mensaje → https://www.nngroup.com/articles/tone-of-voice-dimensions/
 
-2.3. Tono de voz
+2.3. Editar el textos para su lectura en web → https://www.nngroup.com/articles/how-users-read-on-the-web/
 
-### 3. Fuentes 
+**Más información en:**
 
-Buscarlas en Google Fonts - https://fonts.google.com/
+- *Concise, SCANNABLE, and Objective: How to Write for the Web* → https://www.nngroup.com/articles/how-users-read-on-the-web/
 
-Seleccionar Jerarquías - https://bootstrapcreative.com/bootstrap-text-sizes/
+- *Las 11 reglas de oro para escribir contenido en tu página web* → https://www.jimdo.com/es/blog/escribir-contenido-pagina-web/
 
-### 4. Imágenes
+### 3. fuentes 
+
+3.1. Buscar las fuentes tipográficas en el catálogo de Google Fonts; en caso de no encontrarla(s), reemplácenla(s) por otra(s) disponible(s) en el mismo catálogo - https://fonts.google.com/
+
+Es importanta considerar que:
+
+> Siempre hay excepciones, siempre hay excusas para las sorpresas y los trucos. Pero tal vez podamos ponernos de acuerdo en que, en general, la tipografía puede realizar los siguientes servicios […] invitar al lector a entrar en el texto; mostrar el tenor y significado del texto; vincular el texto con otros elementos; inducir un estado de enérgico reposo, que es la condición ideal para la lectura (Bringhurst, 2008:31)
+
+3.2. Escoger una escala de cuerpos tipográficos que empice en un tamaño que permita inducir al estado de enérgico reposo en la lectura de los párrafos y trabaja despacia desde ahí - https://bootstrapcreative.com/bootstrap-text-sizes/
+
+Pueden establecer un tamaño para **párrafo**, para **párrafo destacado** (más grande), notas al margen (más pequeño) y distintos niveles de encabezados (un máximo de 6, con 1 título y 5 subtítulos).  
+
+**Más información**
+
+- Low-Contrast Text Is Not the Answer → https://www.nngroup.com/articles/low-contrast/
+
+- The Elements of Typographic Style Applied to the Web → http://webtypography.net/
+
+- Typography Terms Cheat Sheet → https://www.nngroup.com/articles/typography-terms-ux/
+
+### 4. imágenes
 
 Ajustarlas a tres versiones – *smartphone (small)*, *tablet (medium)* y *desktop (large)*. Para estos ajustes, y debido a la gran [variedad de dispositivos y respectivas pantallas existentes](http://screensiz.es/), no podemos contar con un tamaño único, como "recomendación infalible".
 
