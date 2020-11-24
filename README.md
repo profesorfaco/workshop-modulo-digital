@@ -26,7 +26,7 @@ A nivel de programación, los objetos digitales son archivos de texto. Como arch
 
 - - - - - - - - - - 
 
-Nos basaremos en el trabajo desarrollado para el módulo gráfico. De allí tomaremos:
+**Nos basaremos en el trabajo desarrollado para el módulo gráfico**. De allí tomaremos:
 
 1. [colores](https://github.com/profesorfaco/digital#1-colores)
 2. [textos](https://github.com/profesorfaco/digital#2-textos)
@@ -62,7 +62,6 @@ Para las revisiones y publicación final, usaremos [GitHub](https://github.com/)
 **Más información en:**
 
 - *¿Cuáles son los códigos de color de HTML?* → https://htmlcolorcodes.com/es/
-
 - *Understanding Web Accessibility Color Contrast Guidelines and Ratios* → https://css-tricks.com/understanding-web-accessibility-color-contrast-guidelines-and-ratios/
 
 - - - - - - - - - - - - - - - - 
@@ -78,37 +77,45 @@ Para las revisiones y publicación final, usaremos [GitHub](https://github.com/)
 **Más información en:**
 
 - *Concise, SCANNABLE, and Objective: How to Write for the Web* → https://www.nngroup.com/articles/how-users-read-on-the-web/
-
 - *Las 11 reglas de oro para escribir contenido en tu página web* → https://www.jimdo.com/es/blog/escribir-contenido-pagina-web/
 
 - - - - - - - - - - - - - - - - 
 
 ### 3. fuentes 
 
-3.1. Buscar las fuentes tipográficas en el catálogo de Google Fonts; en caso de no encontrarla(s), reemplácenla(s) por otra(s) disponible(s) en el mismo catálogo - https://fonts.google.com/
+3.1. Buscar las fuentes tipográficas en el catálogo de Google Fonts; en caso de no encontrarla(s), reemplácenla(s) por otra(s) disponible(s) en el mismo catálogo → https://fonts.google.com/
 
 Es importanta considerar que:
 
 > Siempre hay excepciones, siempre hay excusas para las sorpresas y los trucos. Pero tal vez podamos ponernos de acuerdo en que, en general, la tipografía puede realizar los siguientes servicios […] invitar al lector a entrar en el texto; mostrar el tenor y significado del texto; vincular el texto con otros elementos; inducir un estado de enérgico reposo, que es la condición ideal para la lectura (Bringhurst, 2008:31)
 
-3.2. Escoger una escala de cuerpos tipográficos que empice en un tamaño que permita inducir al estado de enérgico reposo en la lectura de los párrafos y trabaja despacia desde ahí - https://bootstrapcreative.com/bootstrap-text-sizes/
+3.2. Escoger una escala de cuerpos tipográficos que empice en un tamaño que permita inducir al estado de enérgico reposo en la lectura de los párrafos y trabaja despacia desde ahí → https://bootstrapcreative.com/bootstrap-text-sizes/
 
 Pueden establecer un tamaño para **párrafo**, para **párrafo destacado** (más grande), notas al margen (más pequeño) y distintos niveles de encabezados (un máximo de 6, con 1 título y 5 subtítulos).  
 
 **Más información**
 
 - Low-Contrast Text Is Not the Answer → https://www.nngroup.com/articles/low-contrast/
-
 - The Elements of Typographic Style Applied to the Web → http://webtypography.net/
-
 - Typography Terms Cheat Sheet → https://www.nngroup.com/articles/typography-terms-ux/
 
 - - - - - - - - - - - - - - - - 
 
 ### 4. imágenes
 
-Ajustarlas a tres versiones – *smartphone (small)*, *tablet (medium)* y *desktop (large)*. Para estos ajustes, y debido a la gran [variedad de dispositivos y respectivas pantallas existentes](http://screensiz.es/), no podemos contar con un tamaño único, como "recomendación infalible".
+4.1. Crear tres versiones para cada una de las imágenes que utilicen en el fanzine y quieran utilizar en su versión digital, interactiva y dinámica. Cada versión responderá a *smartphone (small)*, *tablet (medium)* o *desktop (large)*. 
 
-Guardarlas en JPG, GIF o PNG, con atención a los pesos resultantes – https://nbadiola.com/peso-ideal-fotografia-para-web/
+Para crear estas versiones, y debido a la gran [variedad de pantallas con tamaños y resoluciones distintas](http://screensiz.es/), no existen tamaños de imágenes infalibles. 
 
+Pero podemos quedar en un lugar suficientemente seguro considerando los tamaños de ancho de pantalla que usa [Bootstrap](https://getbootstrap.com/docs/4.5/layout/overview/#responsive-breakpoints) como referencia para sus cambios entre *smartphone (small)*, *tablet (medium)* y *desktop (large)*, que son, respectivamente: 576px, 768px y 992px. 
 
+Si ya tenemos un ancho para la imagen, nos falta un alto. En este punto corresponde buscar un lugar seguro con [la relación de aspecto](https://es.wikipedia.org/wiki/Relaci%C3%B3n_de_aspecto). 
+
+Podría ser que una imagen que se vea a pantalla completa en *smartphone (small)* se acerque al formato Panavision (2.39:1). Una imagen que se vea a pantalla completa en *tablet (medium)* podría estar más cerca de la razón 3:2. Y podría ser que una imagen que se ve completa en *desktop (large)* esté más cerca del 16:9.
+
+4.2. Guardar copia de cada imagen (en JPG, GIF o PNG), con atención a los pesos resultantes → https://nbadiola.com/peso-ideal-fotografia-para-web/
+
+**Más información**
+
+- Lazy loading de imágenes ya forma parte del estándar HTML → https://carlosazaustre.es/lazy-loading-image
+- Use el atributo alt → https://www.w3.org/QA/Tips/altAttribute.html.es
