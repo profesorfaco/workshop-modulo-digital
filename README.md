@@ -2,28 +2,27 @@
 
 ### Front End | Código fuente desde el diseño
 
-**Partamos con una analogía**: 
+**Partamos recordando una cita**:
+
+> Los objetos digitales aparecen ante los usuarios humanos como seres coloridos y visibles. **Al nivel de la programación son archivos de texto**; en el sistema operativo son códigos binarios; a nivel de las tarjetas de circuitos, son señales generadas por los valores del voltaje y la operación de entradas lógicas (Hui, 2017: 88)
+
+**Agreguemos una analogía**: 
 
 Se ofrece puesto de trabajo en una empresa japonesa. Solo se requiere dominio de inglés. Tu lengua materna es el castellano, y tienes un buen nivel de inglés. 
 
 ¿Cómo te iría en ese trabajo si es que, además de inglés, supieras algo de japonés? ¿Mejor, igual o peor? ¿Por qué?
 
-**Agreguemos una cita**:
+**Mezclemos la cita y la analogía**: 
 
-> Los objetos digitales aparecen ante los usuarios humanos como seres coloridos y visibles. **Al nivel de la programación son archivos de texto**; en el sistema operativo son códigos binarios; a nivel de las tarjetas de circuitos, son señales generadas por los valores del voltaje y la operación de entradas lógicas (Hui, 2017: 88)
+A nivel de programación, los objetos digitales son archivos de texto. Como archivos de texto, se escriben. Ahora, pensemos en el dominio del japonés escrito por el dominio de algún lenguaje de descripción o programación de objetos digitales; no corresponde desalentarse si no puedes escribir este tercer idioma mejor que un nativo al que se le exige escribirlo, todos los días, de la mejor manera posible. 
 
-**Mezclemos la analogía y la cita**: 
+**Dominemos, de forma óptima, nuestra lengua materna y practiquemos el idioma funcional para los intercambios. Si el contexto te lo exige, saquemos ventaja con el dominio del tercer idioma**.
 
-A nivel de programación, los objetos digitales son archivos de texto. Como archivos de texto, se escriben. Ahora, cambiemos el dominio del japonés escrito por el dominio de algún lenguaje de descripción o programación de objetos digitales; no corresponde desalentarse si no puedes escribir este tercer idioma mejor que un nativo al que se le exige escribirlo, todos los días, de la mejor manera posible. 
-
-**Domina, entonces, de forma óptima tu lengua materna y practica el idioma funcional para los intercambios. Si el contexto te lo exige, saca ventaja con el dominio del tercer idioma**.
-
-Para dejarlo más claro:
-| Idioma   | ≈ |  Analogía   |  Dominio      |
-|:---------|:---:|:--------|:---------|
-| Castellano | ≈ | Diseño | Principios operativos, perceptuales y simbólicos de la forma |
-| Inglés | ≈ | Desarrollo Ágil | Idioma funcional para los intercambios en el desarrollo de objetos digitales |
-| Japonés | ≈ | Programación |  Lenguaje de descripción o programación de objetos digitales |
+<table>
+<tr><td>Castellano</td><td>≈</td><td>Diseño</td><td>Principios operativos, perceptuales y simbólicos de la forma</td></tr>
+<tr><td>Inglés</td><td>≈</td><td>Desarrollo Ágil</td><td>Idioma funcional para los intercambios en el desarrollo de objetos digitales</td></tr>
+<tr><td>Japonés</td><td>≈</td><td>Programación</td><td>Lenguaje de descripción o programación de objetos digitales</td></tr>
+</table>
 
 - - - - - - - - - - 
 
