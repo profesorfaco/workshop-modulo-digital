@@ -28,10 +28,10 @@ A nivel de programación, los objetos digitales son archivos de texto. Como arch
 
 Nos basaremos en el trabajo desarrollado para el módulo gráfico. De allí tomaremos:
 
-1. [colores](#1. colores)
-2. textos
-3. fuentes
-4. imágenes
+1. [colores](https://github.com/profesorfaco/digital#1-colores)
+2. [textos](https://github.com/profesorfaco/digital#2-textos)
+3. [fuentes](https://github.com/profesorfaco/digital#3-fuentes)
+4. [imágenes](https://github.com/profesorfaco/digital#4-imágenes)
 
 Con estos elementos (operativos, perceptuales y simbólicos) describiremos y programaremos una página web, tipo [landing page](https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje), que será la versión digital, interactiva y dinámica del fanzine. 
 
