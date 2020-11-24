@@ -12,7 +12,7 @@ Se ofrece puesto de trabajo en una empresa japonesa. Solo se requiere dominio de
 
 > Los objetos digitales aparecen ante los usuarios humanos como seres coloridos y visibles. **Al nivel de la programación son archivos de texto**; en el sistema operativo son códigos binarios; a nivel de las tarjetas de circuitos, son señales generadas por los valores del voltaje y la operación de entradas lógicas (Hui, 2017: 88)
 
-Mezclemos la analogía y la cita: 
+**Mezclemos la analogía y la cita**: 
 
 A nivel de programación, los objetos digitales son archivos de texto. Como archivos de texto, se escriben. Ahora, cambiemos el dominio del japonés escrito por el dominio de algún lenguaje de descripción o programación de objetos digitales; no corresponde desalentarse si no puedes escribir este tercer idioma mejor que un nativo al que se le exige escribirlo, todos los días, de la mejor manera posible. 
 
