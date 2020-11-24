@@ -37,7 +37,7 @@ No corresponde desalentarnos cuando no podemos escribir este tercer idioma al ni
 
 Con estos elementos (operativos, perceptuales y simbólicos) describiremos y programaremos una página web, tipo [landing page](https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje), que será la versión digital, interactiva y dinámica del fanzine. 
 
-Para describir y programar esta página aprovecharemos [Bootstrap](https://getbootstrap.com/), lo que nos facilitará el trato con HTML y CSS, que son lenguajes descriptivos, y JavaScript, que es un lenguaje de programación; los tres lenguajes, operando en conjunto, son el código fuente.
+Para describir y programar esta página aprovecharemos [Bootstrap](https://getbootstrap.com/), lo que nos facilitará el trato con [HTML](https://github.com/profesorfaco/dno075-2020/wiki/HTML) y [CSS](https://github.com/profesorfaco/dno075-2020/wiki/CSS), que son lenguajes descriptivos, y [JavaScript](https://github.com/profesorfaco/dno075-2020/wiki/JavaScript), que es un lenguaje de programación; los tres lenguajes, operando en conjunto, son el código fuente.
 
 Para escribir el código fuente, será necesario tener instalado uno de los siguientes editores:
 
@@ -47,7 +47,7 @@ Para escribir el código fuente, será necesario tener instalado uno de los sigu
 
 Para las revisiones y publicación final, usaremos [GitHub](https://github.com/). 
 
-**¡Una recomendación! Para abordar lo que sigue, conviene que los grupos auto-organicen el aprendizaje sobre colores, textos, fuentes e imágenes. Que un integrante se encargue de un tema. Luego, si a un grupos de 6 integrantes les resto 4, quedan 2 integrantes que podrán abordar 2 temas más: HTML y CSS.**
+**¡Una recomendación! Para abordar lo que sigue, conviene que los grupos auto-organicen el aprendizaje sobre colores, textos, fuentes e imágenes. Que un integrante se encargue de un tema. Luego, si a un grupos de 6 integrantes les resto 4, quedan 2 integrantes que podrán abordar 2 temas más: [HTML](https://github.com/profesorfaco/dno075-2020/wiki/HTML) y [CSS](https://github.com/profesorfaco/dno075-2020/wiki/CSS).**
 
 - - - - - - - - - - - - - - - - 
 
