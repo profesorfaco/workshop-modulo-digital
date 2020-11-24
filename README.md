@@ -33,7 +33,17 @@ Nos basaremos en el trabajo desarrollado para el módulo gráfico. De allí toma
 3. fuentes
 4. imágenes
 
-Con estos elementos (operativos, perceptuales y simbólicos) describiremos y programaremos una página web, tipo [landing page](https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje), que será la versión digital, interactiva y dinámica del fanzine; para describirla y programarla aprovecharemos [Bootstrap](https://getbootstrap.com/), lo que nos facilitará el trato con HTML, CSS y JavaScript.
+Con estos elementos (operativos, perceptuales y simbólicos) describiremos y programaremos una página web, tipo [landing page](https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje), que será la versión digital, interactiva y dinámica del fanzine. 
+
+Para describir y programar esta página aprovecharemos [Bootstrap](https://getbootstrap.com/). Esto nos facilitará el trato con HTML y CSS, que son lenguajes descriptivos, y JavaScript, que es un lenguaje de programación; los tres lenguajes, operando en conjunto, son el código fuente.
+
+Para escribir estos lenguajes será necesario tener instalado en uno de los siguientes editores de código fuente:
+
+- [Atom.io](https://atom.io/)
+- [Sublime Text](https://www.sublimetext.com/) 
+- [Brackets](http://brackets.io/) 
+
+Para las revisiones y publicación final, usaremos [GitHub](https://github.com/). 
 
 - - - - - - - - - - - - - - - - 
 
