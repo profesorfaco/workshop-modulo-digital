@@ -26,7 +26,7 @@ A nivel de programación, los objetos digitales son archivos de texto. Como arch
 
 - - - - - - - - - - 
 
-**Nos basaremos en el trabajo desarrollado para el módulo gráfico**. De allí tomaremos:
+**Para el trabajo grupal final del Módulo Digital, nos basaremos en el trabajo desarrollado para el Módulo Gráfico**. De allí tomaremos:
 
 1. [colores](https://github.com/profesorfaco/digital#1-colores)
 2. [textos](https://github.com/profesorfaco/digital#2-textos)
@@ -35,17 +35,17 @@ A nivel de programación, los objetos digitales son archivos de texto. Como arch
 
 Con estos elementos (operativos, perceptuales y simbólicos) describiremos y programaremos una página web, tipo [landing page](https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje), que será la versión digital, interactiva y dinámica del fanzine. 
 
-Para describir y programar esta página aprovecharemos [Bootstrap](https://getbootstrap.com/). Esto nos facilitará el trato con HTML y CSS, que son lenguajes descriptivos, y JavaScript, que es un lenguaje de programación; los tres lenguajes, operando en conjunto, son el código fuente.
+Para describir y programar esta página aprovecharemos [Bootstrap](https://getbootstrap.com/), lo que nos facilitará el trato con HTML y CSS, que son lenguajes descriptivos, y JavaScript, que es un lenguaje de programación; los tres lenguajes, operando en conjunto, son el código fuente.
 
-Para escribir el código, será necesario tener instalado uno de los siguientes editores de código fuente:
+Para escribir el código fuente, será necesario tener instalado uno de los siguientes editores:
 
-- [Atom.io](https://atom.io/)
 - [Sublime Text](https://www.sublimetext.com/) 
+- [Atom.io](https://atom.io/)
 - [Brackets](http://brackets.io/) 
 
 Para las revisiones y publicación final, usaremos [GitHub](https://github.com/). 
 
-**Una recomendación. Para abordar lo que sigue, conviene que los grupos organicen el aprendizaje sobre colores, textos, fuentes e imágenes. Que una integrante se encargue de cada tema. Luego, si a un grupos de 6 integrantes les resto 4, quedan 2 integrantes para abordar 2 temas más: HTML y CSS.**
+**¡Una recomendación! Para abordar lo que sigue, conviene que los grupos organicen el aprendizaje sobre colores, textos, fuentes e imágenes. Que un integrante se encargue de un tema. Luego, si a un grupos de 6 integrantes les resto 4, quedan 2 integrantes que podrán abordar 2 temas más: HTML y CSS.**
 
 - - - - - - - - - - - - - - - - 
 
@@ -118,4 +118,4 @@ Si ya tenemos un ancho para la imagen, nos falta un alto. En este punto podemos 
 
 - - - - - - - - - - - - - - - - 
 
-Cada versión digital, interactiva y dinámica de fanzine debe desarrollarse desde una plantilla que quedará disponible en este repositorio el día lunes 30 de noviembre. Su trabajo grupal será evaluado con el uso de una rúbrica que estará disponible en la misma fecha.
+Cada versión digital, interactiva y dinámica de fanzine debe desarrollarse desde una plantilla que quedará disponible en este repositorio el día lunes 30 de noviembre. Su trabajo grupal será evaluado con el uso de **una rúbrica que estará disponible en la misma fecha; esta rúbrica dará indicaciones detalladas respecto de la edición de la plantilla**.
