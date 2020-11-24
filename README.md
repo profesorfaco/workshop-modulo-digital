@@ -11,7 +11,7 @@ Nos basaremos en el trabajo desarrollado para el módulo gráfico. De allí toma
 
 ### 1. Colores 
 
-Pasar de colores para impresión a colores para pantalla → https://www.pantone.com/color-finder/
+Cambiar sus colores para impresión (Pantone) por colores para pantalla (HEX/HTML) → https://www.pantone.com/color-finder/
 
 Revisar el *contrast ratio* para asegurar la legibilidad → https://webaim.org/resources/contrastchecker/
 
