@@ -1,5 +1,23 @@
 # Procesos de Producción | Módulo Digital | 2020-2
 
+### Front End | Código fuente desde el diseño
+
+Partamos con una analogía: 
+
+Se ofrece puesto de trabajo en una empresa japonesa. Solo se requiere dominio del inglés. Tu lengua materna es el castellano, y dominas bien en inglés. 
+
+¿Cómo te iría en ese trabajo si es que, además de inglés, supieras algo de japonés? ¿Mejor, igual o peor? ¿Por qué?
+
+Agreguemos una cita:
+
+> Los objetos digitales aparecen ante los usuarios humanos como seres coloridos y visibles. **Al nivel de la programación son archivos de texto**; en el sistema operativo son códigos binarios; a nivel de las tarjetas de circuitos, son señales generadas por los valores del voltaje y la operación de entradas lógicas (Hui, 2017: 88)
+
+Mezclemos la analogía y la cita: 
+
+A nivel de programación, los objetos digitales son archivos de texto. Como archivos de texto, se escriben. Ahora, cambiemos el dominio del japonés escrito por el dominio de algún lenguaje de descripción o programación de objetos digitales; ya comprenderás que no corresponde desalentarse si es que no escribes este tercer idioma mejor que un nativo al que se le exige escribrirlo, todos los días, de la mejor manera posible. Domina de la mejor manera posible tu lengua materna, apóyate en la lengua que te exijan, y, si viene al caso, aprovecha la tercera.
+
+- - - - - - - - - - 
+
 Nos basaremos en el trabajo desarrollado para el módulo gráfico. De allí tomaremos:
 
 1. colores
