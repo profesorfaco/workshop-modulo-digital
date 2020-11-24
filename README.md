@@ -37,7 +37,7 @@ Con estos elementos (operativos, perceptuales y simbólicos) describiremos y pro
 
 Para describir y programar esta página aprovecharemos [Bootstrap](https://getbootstrap.com/). Esto nos facilitará el trato con HTML y CSS, que son lenguajes descriptivos, y JavaScript, que es un lenguaje de programación; los tres lenguajes, operando en conjunto, son el código fuente.
 
-Para escribir estos lenguajes será necesario tener instalado en uno de los siguientes editores de código fuente:
+Para escribir el código, será necesario tener instalado uno de los siguientes editores de código fuente:
 
 - [Atom.io](https://atom.io/)
 - [Sublime Text](https://www.sublimetext.com/) 
@@ -45,7 +45,7 @@ Para escribir estos lenguajes será necesario tener instalado en uno de los sigu
 
 Para las revisiones y publicación final, usaremos [GitHub](https://github.com/). 
 
-**Una recomendación. Para abordar lo que sigue, conviene que los grupos organicen el aprendizaje sobre colores, textos, fuentes e imágenes, que una integrante se encargue de cada tema. Luego, si a un grupos de 6 integrantes les resto 4, quedan 2 integrantes para abordar 2 temas más: HTML y CSS.**
+**Una recomendación. Para abordar lo que sigue, conviene que los grupos organicen el aprendizaje sobre colores, textos, fuentes e imágenes. Que una integrante se encargue de cada tema. Luego, si a un grupos de 6 integrantes les resto 4, quedan 2 integrantes para abordar 2 temas más: HTML y CSS.**
 
 - - - - - - - - - - - - - - - - 
 
