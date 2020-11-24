@@ -14,9 +14,9 @@ Se ofrece puesto de trabajo en una empresa japonesa. Solo se requiere dominio de
 
 **Mezclemos la cita y la analogía**: 
 
-A nivel de programación, los objetos digitales son archivos de texto. Como archivos de texto, se escriben. Ahora, pensemos en el dominio del japonés escrito por el dominio de algún lenguaje de descripción o programación de objetos digitales; no corresponde desalentarse si no puedes escribir este tercer idioma mejor que un nativo al que se le exige escribirlo, todos los días, de la mejor manera posible. 
+A nivel de programación, los objetos digitales son archivos de texto. Como archivos de texto, se escriben. Ahora, pensemos en el dominio del japonés escrito como el dominio de algún lenguaje de descripción o programación de objetos digitales; no corresponde desalentarse si no puedes escribir este tercer idioma mejor que un nativo al que se le exige escribirlo, todos los días, de la mejor manera posible. 
 
-**Dominemos, de forma óptima, nuestra lengua materna y practiquemos el idioma funcional para los intercambios. Si el contexto te lo exige, saquemos ventaja con el dominio del tercer idioma**.
+**Lo que nos correspode es dominar, de forma óptima, nuestra lengua materna y practicar el idioma funcional para los intercambios; si el contexto lo permite, saquemos ventaja con el dominio del tercer idioma**.
 
 <table>
 <tr><td>Castellano</td><td>≈</td><td>Diseño</td><td>Principios operativos, perceptuales y simbólicos de la forma</td></tr>
@@ -45,7 +45,7 @@ Para escribir estos lenguajes será necesario tener instalado en uno de los sigu
 
 Para las revisiones y publicación final, usaremos [GitHub](https://github.com/). 
 
-**Y para abordar lo que sigue conviene que los grupos organicen el aprendizaje sobre colores, textos, fuentes e imágenes, aprovechando los textos que continúan. Que una integrante se encargue de cada tema. Luego, si a grupos de 6 integrantes les resto 4, quedan 2: HTML y CSS.**
+**Una recomendación. Para abordar lo que sigue, conviene que los grupos organicen el aprendizaje sobre colores, textos, fuentes e imágenes, que una integrante se encargue de cada tema. Luego, si a un grupos de 6 integrantes les resto 4, quedan 2 integrantes para abordar 2 temas más: HTML y CSS.**
 
 - - - - - - - - - - - - - - - - 
 
