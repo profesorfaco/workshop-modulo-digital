@@ -110,7 +110,7 @@ Pero podemos quedar en un lugar suficientemente seguro considerando los tamaños
 
 Si ya tenemos un ancho para la imagen, nos falta un alto. En este punto podemos encontrar un lugar más seguro aprovechando [la relación de aspecto](https://es.wikipedia.org/wiki/Relaci%C3%B3n_de_aspecto) más probable; podría ser que una imagen que se vea a pantalla completa en *smartphone (small)* se acerque al formato Panavision (2.39:1). Una imagen que se vea a pantalla completa en *tablet (medium)* podría estar más cerca de la razón 3:2. Y podría ser que una imagen que se ve completa en *desktop (large)* esté más cerca del 16:9.
 
-4.2. Guardar copia de cada imagen (en PNG, JPG o GIF), con atención a los pesos resultantes → https://nbadiola.com/peso-ideal-fotografia-para-web/
+4.2. Guardar copia de cada imagen (en GIF, JPG o PNG), con atención a los pesos resultantes → https://nbadiola.com/peso-ideal-fotografia-para-web/
 
 **Más información**
 
