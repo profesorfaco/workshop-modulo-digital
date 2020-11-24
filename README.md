@@ -18,6 +18,13 @@ A nivel de programación, los objetos digitales son archivos de texto. Como arch
 
 **Domina, entonces, de forma óptima tu lengua materna y practica el idioma funcional para los intercambios. Si el contexto te lo exige, saca ventaja con el dominio del tercer idioma**.
 
+Para dejarlo más claro:
+| Idioma   | ≈ |  Analogía   |  Dominio      |
+|:---------|:---:|:--------|:---------|
+| Castellano | ≈ | Diseño | Principios operativos, perceptuales y simbólicos de la forma |
+| Inglés | ≈ | Desarrollo Ágil | Idioma funcional para los intercambios en el desarrollo de objetos digitales |
+| Japonés | ≈ | Programación |  Lenguaje de descripción o programación de objetos digitales |
+
 - - - - - - - - - - 
 
 Nos basaremos en el trabajo desarrollado para el módulo gráfico. De allí tomaremos:
