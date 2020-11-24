@@ -14,18 +14,18 @@ Se ofrece puesto de trabajo en una empresa japonesa. Solo se requiere dominio de
 
 Mezclemos la analogía y la cita: 
 
-A nivel de programación, los objetos digitales son archivos de texto. Como archivos de texto, se escriben. Ahora, cambiemos el dominio del japonés escrito por el dominio de algún lenguaje de programación de objetos digitales; no corresponde desalentarse si no puedes escribir este tercer idioma mejor que un nativo al que se le exige escribrirlo, todos los días, de la mejor manera posible. 
+A nivel de programación, los objetos digitales son archivos de texto. Como archivos de texto, se escriben. Ahora, cambiemos el dominio del japonés escrito por el dominio de algún lenguaje de descripción o programación de objetos digitales; no corresponde desalentarse si no puedes escribir este tercer idioma mejor que un nativo al que se le exige escribirlo, todos los días, de la mejor manera posible. 
 
-**Domina de la mejor manera posible tu lengua materna y el idioma funcional para los intercambio y, si el contexto te lo exige, saca ventaja con el dominio de la tercera**.
+**Domina, entonces, de forma óptima tu lengua materna y practica el idioma funcional para los intercambios. Si el contexto te lo exige, saca ventaja con el dominio del tercer idioma**.
 
 - - - - - - - - - - 
 
 Nos basaremos en el trabajo desarrollado para el módulo gráfico. De allí tomaremos:
 
 1. colores
-2. fuentes
-3. imágenes
-4. texto
+2. textos
+3. fuentes
+4. imágenes
 
 - - - - - - - - - - - - - - - - 
 
@@ -47,19 +47,24 @@ Nos basaremos en el trabajo desarrollado para el módulo gráfico. De allí toma
 
 - *Understanding Web Accessibility Color Contrast Guidelines and Ratios* → https://css-tricks.com/understanding-web-accessibility-color-contrast-guidelines-and-ratios/
  
+### 2. Texto
 
-### 2. Fuentes tipográficas
+2.1. Revisarlos en función de la lectura en web - https://www.jimdo.com/es/blog/escribir-contenido-pagina-web/
+
+2.2. - - -
+
+2.3. Tono de voz
+
+### 3. Fuentes 
 
 Buscarlas en Google Fonts - https://fonts.google.com/
 
 Seleccionar Jerarquías - https://bootstrapcreative.com/bootstrap-text-sizes/
 
-### 3. Imágenes
+### 4. Imágenes
 
 Ajustarlas a tres versiones – *smartphone (small)*, *tablet (medium)* y *desktop (large)*. Para estos ajustes, y debido a la gran [variedad de dispositivos y respectivas pantallas existentes](http://screensiz.es/), no podemos contar con un tamaño único, como "recomendación infalible".
 
 Guardarlas en JPG, GIF o PNG, con atención a los pesos resultantes – https://nbadiola.com/peso-ideal-fotografia-para-web/
 
-### 4. Texto
 
-Revisarlos en función de la lectura en web - https://www.jimdo.com/es/blog/escribir-contenido-pagina-web/
