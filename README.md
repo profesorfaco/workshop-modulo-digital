@@ -17,7 +17,7 @@ Cuidar el contrast ratio para asegurar la legibilidad → https://webaim.org/res
 
 Priorizando la accesibilidad, corresponde ajustar aquellos colores que no entrega un "contrast ratio" según las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1 → https://www.w3.org/TR/WCAG21/#contrast-minimum
 
-Una vez tengan los colores definitivos, podremos hacer uso de variables CSS → https://developer.mozilla.org/es/docs/Web/CSS/--*
+Una vez tengan los colores definitivos, podremos hacer uso de variables CSS → [https://developer.mozilla.org/es/docs/Web/CSS/--*](https://developer.mozilla.org/es/docs/Web/CSS/--*)
 
 **Más información en:**
 
