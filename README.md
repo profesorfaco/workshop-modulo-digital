@@ -100,15 +100,13 @@ Es importanta considerar que:
 
 ### 4. imágenes
 
-4.1. Crear tres versiones para cada una de las imágenes que utilicen en el fanzine y quieran utilizar en su versión digital, interactiva y dinámica. Cada versión responderá a *smartphone (small)*, *tablet (medium)* o *desktop (large)*. 
+4.1. Crear tres versiones para cada una de las imágenes que utilizaron en el fanzine y quieran utilizar en su versión digital, interactiva y dinámica. Cada una de tales versiones tendrá que responder a *smartphone (small)*, *tablet (medium)* o *desktop (large)*. 
 
-Para crear estas versiones, y debido a la gran [variedad de pantallas con tamaños y resoluciones distintas](http://screensiz.es/), no existen tamaños de imágenes infalibles. 
+Para crear estas versiones, y debido a la gran [variedad de pantallas con tamaños y resoluciones distintas](http://screensiz.es/), no existen tamaños de infalibles. 
 
 Pero podemos quedar en un lugar suficientemente seguro considerando los tamaños de ancho de pantalla que usa [Bootstrap](https://getbootstrap.com/docs/4.5/layout/overview/#responsive-breakpoints) como referencia para sus cambios entre *smartphone (small)*, *tablet (medium)* y *desktop (large)*, que son, respectivamente: 576px, 768px y 992px. 
 
-Si ya tenemos un ancho para la imagen, nos falta un alto. En este punto corresponde buscar un lugar seguro con [la relación de aspecto](https://es.wikipedia.org/wiki/Relaci%C3%B3n_de_aspecto). 
-
-Podría ser que una imagen que se vea a pantalla completa en *smartphone (small)* se acerque al formato Panavision (2.39:1). Una imagen que se vea a pantalla completa en *tablet (medium)* podría estar más cerca de la razón 3:2. Y podría ser que una imagen que se ve completa en *desktop (large)* esté más cerca del 16:9.
+Si ya tenemos un ancho para la imagen, nos falta un alto. En este punto podemos encontrar un lugar más seguro aprovechando [la relación de aspecto](https://es.wikipedia.org/wiki/Relaci%C3%B3n_de_aspecto) más probable; podría ser que una imagen que se vea a pantalla completa en *smartphone (small)* se acerque al formato Panavision (2.39:1). Una imagen que se vea a pantalla completa en *tablet (medium)* podría estar más cerca de la razón 3:2. Y podría ser que una imagen que se ve completa en *desktop (large)* esté más cerca del 16:9.
 
 4.2. Guardar copia de cada imagen (en JPG, GIF o PNG), con atención a los pesos resultantes → https://nbadiola.com/peso-ideal-fotografia-para-web/
 
