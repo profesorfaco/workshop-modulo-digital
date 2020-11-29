@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <!--este es un vínculo clave, a Bootstrap-->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous" />
+        <!--estas son las fuentes de Google-->
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@400;800&display=swap" rel="stylesheet" />
+        <!--este es el estilo CSS que usamos en index.html y visual.html-->
+        <link rel="stylesheet" href="style.css" />
+        <title>Lorem ipsum dolor sit amet</title>
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <div class="row h-100">
+                    <div class="col-12 text-center my-auto">
+                        <h1>Lorem ipsum dolor sit amet</h1>
+                        <h2>Aenean imperdiet orci feugiat ex sollicitudin fermentum</h2>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <main role="main" class="pb-5">
+            <!--artículo con IMAGEN-->
+            <article>
+                <div class="container">
+                    <div class="row py-5 align-items-center">
+                        <div class="col-md-6 col-lg-7">
+                            <img loading="lazy" class="img-fluid bg-light d-md-none" src="img/wireframe-aspect_ratio-1-1.png" alt="describa la imagen" />
+                            <img loading="lazy" class="img-fluid bg-light d-none d-md-block d-lg-none" src="img/wireframe-aspect_ratio-4-3.png" alt="describa la imagen" />
+                            <img loading="lazy" class="img-fluid bg-light d-none d-lg-block" src="img/wireframe-aspect_ratio-16-9.png" alt="describa la imagen" />
+                        </div>
+                        <div class="col-md-6 col-lg-5 p-4">
+                            <h3><i data-feather="camera"></i> Este subtítulo tiene que comentar una imagen</h3>
+                            <p>
+                                La imagen debe tener una extensión JPG, PNG o GIF. Como pueden ver en el código, en estricto rigor, no se trata de una única imagen, sino tres. Es una, de tres, la que se muestra según el tamaño de pantalla del dispositivo: pequeña, mediana o grande.
+                            </p>
+                            <p class="small d-none d-lg-block">
+                                En la pantalla pequeña la imagen es cuadrada. En la pantalla mediana es rectangular y apaisada, con lados en <a href="https://es.wikipedia.org/wiki/Relaci%C3%B3n_de_aspecto">relación de aspecto</a> 4:3. En la pantalla grande la relación es 16:9
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <!--artículo con EMBED-->
+            <article>
+                <div class="container">
+                    <div class="row py-5 align-items-center">
+                        <div class="col-md-6 col-lg-7 order-sm-last">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe
+                                    class="embed-responsive-item"
+                                    src="https://www.youtube.com/embed/PKxt1YKvT9w"
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen
+                                ></iframe>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-5 p-4 text-md-right order-sm-first">
+                            <h3><i data-feather="film"></i> Este subtítulo tiene que comentar un embed</h3>
+                            <p>
+                                El <a href="https://getbootstrap.com/docs/4.5/utilities/embed/"><strong>embed</strong> lo encuentran en las <strong>utilidades</strong></a> del sitio web oficial de Boostrap. Allí se explica su uso, y se presentan otras opciones de "razón" disponibles. Se recomienda mantener la razón 16:9 que es utilizada en este ejemplo y los que siguen.
+                            </p>
+                            <p class="small d-none d-lg-block">
+                                En YouTube busquen el botón de compartir. Al presionarlo, aparece una ventana. Seleccionen la opción "insertar". Copien el código. Luego reemplacen en ancho y alto por la clase de Bootstrap.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <!--artículo con SVG-->
+            <article>
+                <div class="container">
+                    <div class="row py-5 align-items-center">
+                        <div class="col-md-6 col-lg-7">
+                            <svg version="1.1" id="ilustracion" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 800 450" xml:space="preserve">
+                                <circle cx="400" cy="225" r="35" />
+                            </svg>
+                        </div>
+                        <div class="col-md-6 col-lg-5 p-4">
+                            <h3><i data-feather="pen-tool"></i> Este subtítulo tiene que comentar un svg</h3>
+                            <p>
+                                SVG (Scalable Vector Graphics) es un dialecto de descripción de gráficos vectoriales bidimensionales, tanto estáticos como animados. Es más que una opción para guardar en Illustrator. <a href="https://developer.mozilla.org/es/docs/Web/SVG">SVG es un estándar Web abierto basado en texto</a>.
+                            </p>
+                            <p class="small d-none d-lg-block">
+                                Si revisan el código fuente, podrán notar que el gráfico mantiene una proporción definida con <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/viewBox">viewBox</a>, y con ella se adapta a cualquier condición de pantalla.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <!--artículo con CANVAS-->
+            <article>
+                <div class="container">
+                    <div class="row py-5 align-items-center">
+                        <div class="col-md-6 col-lg-7 order-sm-last"><div id="p5"></div></div>
+                        <div class="col-md-6 col-lg-5 p-4 text-md-right order-sm-first">
+                            <h3><i data-feather="code"></i> Este subtítulo tiene que comentar un canvas</h3>
+                            <p>
+                                Canvas también nos permite dibujar con texto. Pero aquí tenemos un elemento de HTML cuyas dimensiones no se ajustan automáticamente, y dentro del cual se programan gráficos tipo bitmap, generalmente, con JavaScript.
+                            </p>
+                            <p class="small d-none d-lg-block">
+                                En este caso, se recomienda utilizar <a href="https://p5js.org/es/">p5.js</a>, una biblioteca de JavaScript que reformula Processing (que está basado en Java), y les puede permitir introducirse a un lenguaje de programación.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <!--artículo de CIERRE-->
+            <article class="my-5">
+                <div class="container">
+                    <div class="row py-4">
+                        <div class="col-10 mx-auto mb-5 text-center">
+                            <p><i data-feather="activity"></i></p>
+                            <p class="lead">
+                                Este es un texto de cierre. Una síntesis o llamado de atención. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin commodo orci eu massa tempus vulputate semper vel dui. Curabitur turpis quam, aliquet at massa nec, aliquam vulputate nunc. Quisque urna justo, consectetur in odio nec, dignissim facilisis nisi. Pellentesque varius efficitur.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </article>
+        </main>
+        <!--vamos terminando, con más información-->
+        <aside class="py-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center py-3">
+                        <h3>Más información</h3>
+                    </div>
+                    <div class="col-md-4 mb-4">
+                        <div class="card shadow-sm">
+                            <img src="img/wireframe-aspect_ratio-16-9.png" class="card-img-top" alt="describa la imagen" />
+                            <div class="card-body">
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-4">
+                        <div class="card shadow-sm">
+                            <img src="img/wireframe-aspect_ratio-16-9.png" class="card-img-top" alt="describa la imagen" />
+                            <div class="card-body">
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-4">
+                        <div class="card shadow-sm">
+                            <img src="img/wireframe-aspect_ratio-16-9.png" class="card-img-top" alt="describa la imagen" />
+                            <div class="card-body">
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+        <!--Y aquí cerramos -->
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 py-3 d-flex justify-content-between align-items-center">
+                        <small>
+                            <a href="https://github.com/profesorfaco/digital">Módulo Digital</a> &bull;
+                            <a href="http://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=programa&sigla=dno0323">Procesos de Producción</a> &bull; <a href="https://diseno.uc.cl/">Diseño UC</a>
+                        </small>
+                        <a href="#nuestroModal" data-toggle="modal"><i data-feather="info"></i></a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- esta es una pantalla modal, escondida para presentar al equipo -->
+        <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="nuestroModal">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Sobre nosotras…</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <i data-feather="x-circle"></i>
+                        </button>
+                    </div>
+                    <div class="modal-body row" id="team"><!--esto queda vacío, por ahora--></div>
+                </div>
+            </div>
+        </div>
+        <!--JavaScript para el <canvas></canvas>, simplificado con p5.js-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js" integrity="sha512-WIklPM6qPCIp6d3fSSr90j+1unQHUOoWDS4sdTiR8gxUTnyZ8S2Mr8e10sKKJ/bhJgpAa/qG068RDkg6fIlNFA==" crossorigin="anonymous"></script>
+        <script>
+            // parto creando tres variables
+            var box = document.querySelector("#p5");
+            var w = box.clientWidth;
+            var h = (w / 16) * 9;
+            // defino una altura
+            box.style.color = h + "px";
+            // en caso quieran asomarse a la consola
+            console.log(w);
+            console.log(h);
+            // comenzamos con p5.js
+            function setup() {
+                var canvas = createCanvas(w, h);
+                canvas.parent("#p5");
+            }
+
+            function draw() {
+                background(200);
+                fill(0);
+                ellipse(mouseX, mouseY, 50, 50);
+            }
+
+            function windowResized() {
+                resizeCanvas(w, h);
+            }
+        </script>
+        <!--JavaScript para los 286 feather icons - https://feathericons.com/-->
+        <script src="https://unpkg.com/feather-icons"></script>
+        <script>
+            feather.replace();
+        </script>
+        <!--JavaScript de Bootstrap-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+        <!--JavaScript para integrantes del grupo-->
+        <script>
+            // Tienen que editar los elementos dentro de la siguiente variable
+            var integrantes = [
+                { nombre: "Nombre Apellido", descriptor: "Integrante 1. Loren ipsum dolor sit amet", foto: "img/wireframe-aspect_ratio-3-4.png" },
+                { nombre: "Nombre Apellido", descriptor: "Integrante 2. Loren ipsum dolor sit amet", foto: "img/wireframe-aspect_ratio-3-4.png" },
+                { nombre: "Nombre Apellido", descriptor: "Integrante 3. Loren ipsum dolor sit amet", foto: "img/wireframe-aspect_ratio-3-4.png" },
+                { nombre: "Nombre Apellido", descriptor: "Integrante 4. Loren ipsum dolor sit amet", foto: "img/wireframe-aspect_ratio-3-4.png" },
+                { nombre: "Nombre Apellido", descriptor: "Integrante 5. Loren ipsum dolor sit amet", foto: "img/wireframe-aspect_ratio-3-4.png" },
+                { nombre: "Nombre Apellido", descriptor: "Integrante 6. Loren ipsum dolor sit amet", foto: "img/wireframe-aspect_ratio-3-4.png" },
+            ];
+            // No es necesario que editen lo que sigue
+            for (let x = 0; x < integrantes.length; x++) {
+                $("#team").append('<div class="col-sm-6 col-xl-4"><div class="card mb-3 shadow-sm"><div class="row no-gutters"><div class="col-md-5"><img src="' + integrantes[x].foto + '" class="card-img" alt="describir imagen"></div><div class="col-md-7"><div class="card-body"><h5 class="card-title">' + integrantes[x].nombre + '</h5><p class="card-text">' + integrantes[x].descriptor + "</p></div></div></div></div></div>");
+            }
+        </script>
+    </body>
+</html>

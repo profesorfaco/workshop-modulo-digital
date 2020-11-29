@@ -1,0 +1,176 @@
+/* ----------------------------------------- IMPORTANTE -----------------------------------------
+
+Lo primero es definir tres colores, los que deberían coincidir con los utilizados en el fanzine.
+
+------------------------------------------------------------------------------------------------- */
+
+:root {
+  --primercolor: #222; 
+  --segundocolor: #666; /* menos luminoso */
+  --tercercolor: #aaa; /* más luminoso */
+  --colorclaro: rgba(255,255,255,0.8);
+  --coloroscuro: rgba(0,0,0,0.8);
+}
+
+/* ----------------------------------------- IMPORTANTE -----------------------------------------
+
+En el fondo (background) del cuerpo (body), se recomienda usar el --segundocolor definido. 
+
+En el color de los textos (color) del cuerpo (body), se recomienda usar el mejor contraste, 
+sea este el --colorclaro o el --coloroscuro.
+
+El color de los textos en el cuerpo (body) tiene que ser el mismo que en los vínculo (a)
+
+Otra cosa que deberías rescatar de tu fanzine son las tipografías, usando https://fonts.google.com/
+
+------------------------------------------------------------------------------------------------- */
+
+
+body{
+    background:var(--segundocolor);
+    color:var(--colorclaro);
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 400;
+}
+
+a{
+    color:var(--colorclaro);
+    text-decoration: underline;
+}
+
+a:hover{
+    color:var(--colorclaro);
+    text-decoration: none;
+}
+
+header, header div.container{
+    height: 80vh;
+}
+
+/* ----------------------------------------- IMPORTANTE -----------------------------------------
+
+En sus distitas versiones, la imagen de fondo debe usar su --segundocolor en la parte baja.
+
+De tal manera podría "fundirse" con el color de fondo, ofreciendo continuidad, como ocurre en:
+
+- https://multimedia.scmp.com/infographics/news/world/article/3109169/china-india-forces/
+
+- https://multimedia.scmp.com/infographics/news/world/article/3094954/coconut-harvest/
+
+------------------------------------------------------------------------------------------------- */
+
+header{
+    background-color:var(--segundocolor);
+    background-image:url('img/wireframe-aspect_ratio-1-1.png');
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size:100% auto;
+    color:var(--colorclaro);
+}
+
+@media (min-width: 576px) { 
+    header{background-image:url('img/wireframe-aspect_ratio-4-3.png');}
+}
+
+@media (min-width: 768px) { 
+    header{background-image:url('img/wireframe-aspect_ratio-16-9.png');}
+}
+
+@media (min-width: 992px) { 
+    header{background-image:url('img/wireframe-aspect_ratio-2.75-1.png');}
+}
+
+
+h1, h2, h3, h4, h5, h6, strong{
+    font-weight: 800;
+}
+
+/* ----------------------------------------- IMPORTANTE -----------------------------------------
+
+¡Atención con los colores en la imagen que se muestra al fondo de la sección principal (main)!
+
+Consideren usar en su parte superior el --segundocolor y en su parte inferior el --tercercolor
+
+Con tales colores, la imagen sirve de transición a la parte que ofrece más información (aside).
+
+------------------------------------------------------------------------------------------------- */
+
+main{
+    background-image:url('img/wireframe-aspect_ratio-4-1.png');
+    background-position: left bottom;
+    background-repeat: repeat-x;
+    background-size:100% auto;
+}
+
+@media (min-width: 768px) { 
+    main{background-size:50% auto;}
+}
+
+aside{
+    background:var(--tercercolor);
+    color:var(--coloroscuro);
+}
+
+footer{
+    color:var(--segundcolor);
+}
+
+footer a{
+    text-decoration: none;
+    color:var(--segundcolor);
+}
+
+footer a:hover{
+    text-decoration: none;
+    color:var(--coloroscuro);
+}
+
+/* ----------------------------------------- IMPORTANTE -----------------------------------------
+
+No es necesario modificar lo que sigue.
+
+------------------------------------------------------------------------------------------------- */
+
+.card, .card-img-top{
+    background:var(--colorclaro);
+    border:none;
+    border-radius: 0 0;
+}
+
+svg#ilustracion {
+    background:var(--colorclaro);;
+}
+
+#p5{
+    overflow: hidden;
+}
+
+.feather {
+   margin-bottom:0.4rem;
+}
+
+
+.modal, .modal-dialog, .modal-content{
+    border:none;
+    border-radius: 0 0;
+    color:var(--coloroscuro);    
+}
+
+.modal-header h4.modal-title{
+    line-height: 1;
+    margin:0;
+    padding:0;
+}
+
+.modal-header .feather{
+   margin-bottom:0;    
+}
+
+.modal h5.cart-title{
+    font-size:0.9rem;
+    font-weight: 400;
+}
+
+.modal p.card-text{
+    font-size:0.8rem;
+}
