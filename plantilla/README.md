@@ -10,7 +10,7 @@ La entrega de esta plantilla modificada se hace con [GitHub Pages](https://docs.
 
 3 - solo un/a integrante del grupo debería [configurar los permisos base para la organización](https://docs.github.com/es/free-pro-team@latest/github/setting-up-and-managing-organizations-and-teams/setting-base-permissions-for-an-organization), para que cada integrante pueda administrar.
 
-4 - con los permisos bien configurados, cualquier integrante podrá [crear un repositorio nuevo](https://docs.github.com/es/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-new-repository) en esta organización: Un repositorio público, con un README.md. No es necesario que se le agrege un gitignore ni se escoja una licencia.
+4 - con los permisos bien configurados, cualquier integrante podrá [crear un repositorio nuevo](https://docs.github.com/es/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-new-repository) en esta organización: **Un repositorio público, con un README.md**. No es necesario que se le agrege un gitignore ni se escoja una licencia.
 
 5 - luego, en el repositorio recién creado, corresponde [agregar los archivos](https://docs.github.com/es/free-pro-team@latest/github/managing-files-in-a-repository/adding-a-file-to-a-repository) que están en esta carpeta de nombre plantilla ¡Pero no metan la carpeta! Ábranla y arrastren lo que contiene (exceptuando el README.md, para no reemplazar el que ya tienen)
 
