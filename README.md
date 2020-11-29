@@ -120,8 +120,10 @@ Si ya tenemos un ancho para la imagen, nos falta un alto. En este punto podemos 
 
 - - - - - - - - - - - - - - - - 
 
-Cada versión digital, interactiva y dinámica de fanzine debe desarrollarse desde una plantilla que quedará disponible en este repositorio el día lunes 30 de noviembre. Su trabajo grupal será evaluado con el uso de **una rúbrica que estará disponible en la misma fecha; esta rúbrica dará indicaciones detalladas respecto de la edición de la plantilla	con tres páginas y un estilo que aplica a dos de ellas**:
+**Cada versión digital, interactiva y dinámica de fanzine debe desarrollarse desde una plantilla que** queda disponible en este repositorio el día lunes 30 de noviembre. La plantilla **incluye tres páginas y un estilo, que aplica a dos de las páginas**:
 	
-- [index.html](https://profesorfaco.github.io/digital/plantilla/index.html)
-- [surface.html](https://profesorfaco.github.io/digital/plantilla/surface.html)
-- [skeleton.html](https://profesorfaco.github.io/digital/plantilla/skeleton.html)
+- [index.html](https://profesorfaco.github.io/digital/plantilla/index.html) → resultado final (estilo y contenido)
+- [surface.html](https://profesorfaco.github.io/digital/plantilla/surface.html) → decisiones de estilo (sin contenido)
+- [skeleton.html](https://profesorfaco.github.io/digital/plantilla/skeleton.html) → decisiones de contenido (sin estilo)
+
+Su trabajo grupal será evaluado con el uso de **una rúbrica que estará disponible el mismo día lunes 30 de noviembre**.
