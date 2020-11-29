@@ -2,9 +2,9 @@
 
 ### Plantilla | Entrega final
 
-La entrega de esta plantilla modificada se hace mediante GitHub. Para iniciar el trabajo, corresponde que:
+La entrega de esta plantilla modificada se hace con [GitHub Pages](https://docs.github.com/es/free-pro-team@latest/github/working-with-github-pages/about-github-pages). Para iniciar el trabajo, corresponde que:
 
-1 - cada integrante del grupo de trabajo tenga su cuenta de usuario en esta plataforma https://github.com/
+1 - cada integrante del equipo de trabajo tenga su cuenta de usuario en esta plataforma https://github.com/
 
 2 - solo un/a integrante del grupo debe [crear una organización nueva desde cero](https://docs.github.com/es/free-pro-team@latest/github/setting-up-and-managing-organizations-and-teams/creating-a-new-organization-from-scratch), e invitar a cada integrante del grupo a ser parte de ella. 
 
