@@ -120,7 +120,7 @@ Si ya tenemos un ancho para la imagen, nos falta un alto. En este punto podemos 
 
 - - - - - - - - - - - - - - - - 
 
-**Cada versión digital, interactiva y dinámica de fanzine debe desarrollarse desde una [plantilla](https://github.com/profesorfaco/digital/tree/main/plantilla) que** queda disponible en este repositorio el día lunes 30 de noviembre. La [plantilla](https://github.com/profesorfaco/digital/tree/main/plantilla) **incluye tres páginas y un estilo (que aplica a dos de las páginas), además de imágenes con tamaños de referencia**:
+**Cada versión digital, interactiva y dinámica de fanzine debe desarrollarse desde una [plantilla](https://github.com/profesorfaco/digital/tree/main/plantilla)** que queda disponible en este repositorio el día lunes 30 de noviembre. **La [plantilla](https://github.com/profesorfaco/digital/tree/main/plantilla) incluye tres páginas y un estilo (que aplica a dos de las páginas), además de imágenes con tamaños de referencia**:
 	
 - [index.html](https://profesorfaco.github.io/digital/plantilla/index.html) → resultado final (estilo y contenido)
 - [surface.html](https://profesorfaco.github.io/digital/plantilla/surface.html) → decisiones de estilo (sin contenido)
