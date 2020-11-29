@@ -16,4 +16,4 @@ La entrega de esta plantilla modificada se hace con [GitHub Pages](https://docs.
 
 6 - cuando tengan los archivos en su repositorio, corresponde [configurar una fuente de publicación para tu sitio de Páginas de GitHub](https://docs.github.com/es/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)
 
-Con esto ya tienen una dirección donde se puede ver la página web que les corresponde modificar como grupo.
+**Con esto obtendrán una dirección donde ver su versión de https://profesorfaco.github.io/digital/plantilla/
