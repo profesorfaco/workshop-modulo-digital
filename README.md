@@ -127,3 +127,24 @@ Si ya tenemos un ancho para la imagen, nos falta un alto. En este punto podemos 
 - [skeleton.html](https://profesorfaco.github.io/digital/plantilla/skeleton.html) → decisiones de contenido (sin estilo)
 
 Su trabajo grupal será evaluado con el uso de **[una rúbrica](https://docs.google.com/spreadsheets/d/1r9Cf1m2blnWIl97_lX4GKQNjiEJf7nhrdf9uMhQyWVs/edit?usp=sharing), que está disponible en la carpeta del Drive a la que todo el curso tiene acceso**.
+
+- - - - - - - - - - - - - - - 
+
+### FECHAS
+
+Cuetan con 10 días hábiles para la entrega. Según la fecha de su entrega, podrán obtener bonificación.
+
+| día 0 | día 1 | día 2 | día 3 | día 4 | día 5 | día 6 | día 7 | día 8 | día 9  | **día 10**     |    día 11    |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:--------------:|:------------:|
+| 30-11 | 01-12 | 02-12 | 03-12 | 04-12 | 09-12 | 10-12 | 11-12 | 14-12 | 15-12  | **16-12**      |    17-12     | 
+| + 1.0 | + 0.9 | + 0.8 | + 0.7 | + 0.6 | +0.5  | + 0.4 | + 0.3 | + 0.2 | + 0.1  | FIN DEL PLAZO  | NOTA MÍNIMA  |
+
+Como indica la tabla, **el plazo se acaba el día miércoles 16 de diciembre, a las 23.59 hrs.** Si un trabajo llega después de esa fecha y hora, obtiene nota mínima (1.0).
+
+**La entrega se hace vía e-mail:**
+
+- Escriban a felipe.cortez@ucl, con copia a pdelosri@uc.cl, meinfante@uc.cl y canauto@uc.cl
+
+- Se recomienda que el asunto sea "ENTREGA FINAL PDP" 
+
+- En el cuerpo del correo deben indicar la dirección de su repositorio y la dirección de su GitHub Page.
