@@ -126,4 +126,4 @@ Si ya tenemos un ancho para la imagen, nos falta un alto. En este punto podemos 
 - [surface.html](https://profesorfaco.github.io/digital/plantilla/surface.html) → decisiones de estilo (sin contenido)
 - [skeleton.html](https://profesorfaco.github.io/digital/plantilla/skeleton.html) → decisiones de contenido (sin estilo)
 
-Su trabajo grupal será evaluado con el uso de **una rúbrica que estará disponible el mismo día lunes 30 de noviembre**.
+Su trabajo grupal será evaluado con el uso de **[una rúbrica](https://docs.google.com/spreadsheets/d/1r9Cf1m2blnWIl97_lX4GKQNjiEJf7nhrdf9uMhQyWVs/edit?usp=sharing), que está disponible en la carpeta del Drive a la que todo el curso tiene acceso**.
