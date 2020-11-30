@@ -120,6 +120,8 @@ Si ya tenemos un ancho para la imagen, nos falta un alto. En este punto podemos 
 
 - - - - - - - - - - - - - - - - 
 
+### ENCARGO
+
 **Cada versión digital, interactiva y dinámica de fanzine debe desarrollarse desde una [plantilla](https://github.com/profesorfaco/digital/tree/main/plantilla)** que queda disponible en este repositorio el día lunes 30 de noviembre. **La [plantilla](https://github.com/profesorfaco/digital/tree/main/plantilla) incluye tres páginas y un estilo (que aplica a dos de las páginas), además de imágenes con tamaños de referencia**:
 	
 - [index.html](https://profesorfaco.github.io/digital/plantilla/index.html) → resultado final (estilo y contenido)
@@ -130,14 +132,14 @@ Su trabajo grupal será evaluado con el uso de **[una rúbrica](https://docs.goo
 
 - - - - - - - - - - - - - - - 
 
-### FECHAS
+### FECHA(S) DE ENTREGA DEL ENCARGO
 
-Cuetan con 10 días hábiles para la entrega. Según la fecha de su entrega, podrán obtener bonificación.
+Cuentan con 10 días hábiles. Según la fecha de su entrega, podrán obtener bonificación:
 
-| día 0 | día 1 | día 2 | día 3 | día 4 | día 5 | día 6 | día 7 | día 8 | día 9  | **día 10** |    día 11   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:----------:|:-----------:|
-| 30-11 | 01-12 | 02-12 | 03-12 | 04-12 | 09-12 | 10-12 | 11-12 | 14-12 | 15-12  | **16-12**  |    17-12    | 
-| + 1.0 | + 0.9 | + 0.8 | + 0.7 | + 0.6 | +0.5  | + 0.4 | + 0.3 | + 0.2 | + 0.1  |     0.0    | NOTA MÍNIMA |
+| D 0   | D 1   | D 2   | D 3   | D 4   | D 5   | D 6   | D 7   | D 8   | D 9    | **D 10**  |    D 11     |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---------:|:-----------:|
+| 30-11 | 01-12 | 02-12 | 03-12 | 04-12 | 09-12 | 10-12 | 11-12 | 14-12 | 15-12  | **16-12** |    17-12    | 
+| + 1.0 | + 0.9 | + 0.8 | + 0.7 | + 0.6 | +0.5  | + 0.4 | + 0.3 | + 0.2 | + 0.1  |    0.0    | NOTA MÍNIMA |
 
 Como indica la tabla, **el plazo se acaba el día miércoles 16 de diciembre, a las 23.59 hrs.** Si un trabajo llega después de esa fecha y hora, obtiene nota mínima (1.0).
 
@@ -147,4 +149,6 @@ Como indica la tabla, **el plazo se acaba el día miércoles 16 de diciembre, a 
 
 - Se recomienda que el asunto sea "ENTREGA FINAL PDP" 
 
-- En el cuerpo del correo deben indicar la dirección de su repositorio y la dirección de su GitHub Page.
+- En el cuerpo del correo deben indicar la dirección de su repositorio y la dirección de su GitHub Page. 
+
+**¡Si entrega en fin de semana, o feriado, la fecha de su entrega será el día hábil siguiente!** Por ejemplo, si envía su correo el sábado 5 de diciembre, a las 2 AM, se considerará que su entrega se hace el miércoles 9 (el día 5, no el día 4). De esta manera respetamos nuestros días libres y mantenemos el trabajo en los días hábiles.
