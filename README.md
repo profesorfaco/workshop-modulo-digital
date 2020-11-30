@@ -134,10 +134,10 @@ Su trabajo grupal será evaluado con el uso de **[una rúbrica](https://docs.goo
 
 Cuetan con 10 días hábiles para la entrega. Según la fecha de su entrega, podrán obtener bonificación.
 
-| día 0 | día 1 | día 2 | día 3 | día 4 | día 5 | día 6 | día 7 | día 8 | día 9  | **día 10**     |    día 11    |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:--------------:|:------------:|
-| 30-11 | 01-12 | 02-12 | 03-12 | 04-12 | 09-12 | 10-12 | 11-12 | 14-12 | 15-12  | **16-12**      |    17-12     | 
-| + 1.0 | + 0.9 | + 0.8 | + 0.7 | + 0.6 | +0.5  | + 0.4 | + 0.3 | + 0.2 | + 0.1  | FIN DEL PLAZO  | NOTA MÍNIMA  |
+| día 0 | día 1 | día 2 | día 3 | día 4 | día 5 | día 6 | día 7 | día 8 | día 9  | **día 10** |    día 11   |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:----------:|:-----------:|
+| 30-11 | 01-12 | 02-12 | 03-12 | 04-12 | 09-12 | 10-12 | 11-12 | 14-12 | 15-12  | **16-12**  |    17-12    | 
+| + 1.0 | + 0.9 | + 0.8 | + 0.7 | + 0.6 | +0.5  | + 0.4 | + 0.3 | + 0.2 | + 0.1  |     0.0    | NOTA MÍNIMA |
 
 Como indica la tabla, **el plazo se acaba el día miércoles 16 de diciembre, a las 23.59 hrs.** Si un trabajo llega después de esa fecha y hora, obtiene nota mínima (1.0).
 
