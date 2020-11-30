@@ -136,12 +136,22 @@ Su trabajo grupal será evaluado con el uso de **[una rúbrica](https://docs.goo
 
 Cuentan con 10 días hábiles. Según la fecha de su entrega, podrán obtener bonificación:
 
-| D 0   | D 1   | D 2   | D 3   | D 4   | D 5   | D 6   | D 7   | D 8   | D 9    | **D 10**  |    D 11     |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:---------:|:-----------:|
-| 30-11 | 01-12 | 02-12 | 03-12 | 04-12 | 09-12 | 10-12 | 11-12 | 14-12 | 15-12  | **16-12** |    17-12    | 
-| + 1.0 | + 0.9 | + 0.8 | + 0.7 | + 0.6 | +0.5  | + 0.4 | + 0.3 | + 0.2 | + 0.1  |    0.0    | NOTA MÍNIMA |
+| Día     | Fecha               | Bonificación |
+|:--------:|:-------------------|:------------:|
+|  0      | Lunes 30/11         |    + 1.0     |
+|  1      | Martes 01/12        |    + 0.9     |
+|  2      | Miércoles 02/12     |    + 0.8     |
+|  3      | Jueves 03/12        |    + 0.7     |
+|  4      | Viernes 04/12       |    + 0.6     |
+|  5      | Miércoles 9/12      |    + 0.5     |
+|  6      | Jueves 10/12        |    + 0.4     |
+|  7      | Viernes 11/12       |    + 0.3     |
+|  8      | Lunes 14/12         |    + 0.2     |
+|  9      | Martes 15/12        |    + 0.1     |
+|  **10** | **Miércoles 16/12** |   **0.0**    |
+|  11     | Jueves 17/12        | NOTA MÍNIMA  |
 
-Como indica la tabla, **el plazo se acaba el día miércoles 16 de diciembre, a las 23.59 hrs.** Si un trabajo llega después de esa fecha y hora, obtiene nota mínima (1.0).
+**Como indica la tabla, las bonificaciones se acaban el día martes 15 de diciembre, a las 23:59 hrs. Y el plazo para entregar se acaba el día miércoles 16 de diciembre, a las 23.59 hrs. Si un trabajo llega después de esa fecha y hora, obtiene nota mínima (1.0)**.
 
 **La entrega se hace vía e-mail:**
 
