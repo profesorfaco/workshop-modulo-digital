@@ -1,40 +1,41 @@
-# Procesos de Producción | Módulo Digital | 2021-1
+# PdP · Módulo Digital · 2021-1
 
 ### Código fuente para el desarrollo objetos digitales
 
-**Para el trabajo grupal final del Módulo Digital, nos basaremos en el trabajo desarrollado para el Módulo Gráfico**. De allí tomaremos:
+**Para el trabajo grupal final del Módulo Digital, nos basaremos en lo desarrollado para el Módulo Gráfico**. De allí tomaremos:
 
 1. colores
 2. fuentes tipográficas
 3. gráficos (figurativos, no figurativos y mixtos)
 4. textos
 
-Aprovechando tales elementos (operativos, perceptuales y simbólicos) describiremos y programaremos una página web, tipo [landing page](https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje). 
+Aprovechando tales elementos describiremos y programaremos una página web, tipo [landing page](https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje). 
 
 Para describir y programar esta página usaremos [Bootstrap](https://getbootstrap.com/), lo que nos facilitará el trato con [HTML](https://github.com/profesorfaco/dno075-2020/wiki/HTML) y [CSS](https://github.com/profesorfaco/dno075-2020/wiki/CSS), que son lenguajes descriptivos, y [JavaScript](https://github.com/profesorfaco/dno075-2020/wiki/JavaScript), que es un lenguaje de programación; los tres lenguajes, operando en conjunto, son el código fuente.
 
-Para que puedan escribir el código fuente, podrán usar uno de los siguientes editores:
+Para que puedan escribir su código fuente, podrán usar uno de los siguientes editores:
 
 - [Sublime Text](https://www.sublimetext.com/) 
 - [Atom.io](https://atom.io/)
 - [Brackets](http://brackets.io/) 
 
-Y para la entrega grupal deben utilizar un [repositorio de organización](https://git-scm.com/book/es/v2/GitHub-Gesti%C3%B3n-de-una-organizaci%C3%B3n) en [GitHub](https://github.com/) y aprovechar [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
+Estos editores les entregan "pistas" mientras van escribiendo, tal como hacen los editores de texto (que adelantan palabras o te indican las faltas de ortografía).
 
-En el repositorio de organización debe ser visible la contribución de cada integrante del grupo al código fuente. Por esta razón, cada integrante del grupo debe tener su cuenta personal en GitHub.
+**Para la entrega grupal final deben utilizar un [repositorio de organización](https://git-scm.com/book/es/v2/GitHub-Gesti%C3%B3n-de-una-organizaci%C3%B3n) en [GitHub](https://github.com/) y aprovechar [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).**
 
-**Veamos un ejemplo**: El proyecto Guemil tiene su [organización en GitHub](https://github.com/Guemil). Son 7 las personas que forman parte de esta organización. Si ingresan a cualquier repositorio, podrán ver quiénes han contribuido a su desarrollado. Si ingresan a [Crea_Guemil](https://github.com/Guemil/Crea_Guemil), encontrarán que allí han contribuido: [tucormamirez](https://github.com/tucoramirez), [fjgajardo](https://github.com/fjgajardo) y [profesorfaco](https://github.com/profesorfaco). Nadie más.
+En el repositorio de organización debe ser visible la contribución de cada integrante del grupo. Por esta razón, cada integrante del grupo debe tener su cuenta personal en GitHub.
+
+**Veamos un ejemplo**: El proyecto Guemil tiene su [organización en GitHub](https://github.com/Guemil). Son 7 las personas que forman parte de esta organización. Si ingresan a cualquier repositorio, podrán ver quiénes han contribuido a su desarrollado. Si ingresan a [Crea_Guemil](https://github.com/Guemil/Crea_Guemil), encontrarán que allí han contribuido: [tucormamirez](https://github.com/tucoramirez), [fjgajardo](https://github.com/fjgajardo) y [profesorfaco](https://github.com/profesorfaco). Sólo 3 de 7. No hay aportes de cada integrante de la organización.
 
 - - - - - - - - - - - - - - - - 
 
-Su trabajo grupal será evaluado con el uso de **[una rúbrica](https://docs.google.com/spreadsheets/d/1r9Cf1m2blnWIl97_lX4GKQNjiEJf7nhrdf9uMhQyWVs/edit?usp=sharing), que está disponible en la carpeta del Drive a la que todo el curso tiene acceso**.
+**Su trabajo grupal será evaluado con el uso de [una rúbrica](https://docs.google.com/spreadsheets/d/1syeC8V3ej8MmKgB1F4mXcNk7yjakgOjMSv8cVh6qeO8/edit?usp=sharing) que está disponible en la carpeta del Drive a la que todo el curso tiene acceso**.
 
-La rúbrica evalúa la modificación grupal de una [plantilla](https://github.com/profesorfaco/digital/tree/main/plantilla) incluye tres páginas y un estilo (que aplica a dos de las páginas), además de imágenes con tamaños de referencia**:
-	
-- [index.html](https://profesorfaco.github.io/digital/plantilla/index.html) → aplicación de estilo y cotenido
-- [skeleton.html](https://profesorfaco.github.io/digital/plantilla/skeleton.html) → decisiones de contenido (sin estilo) 
-- [surface.html](https://profesorfaco.github.io/digital/plantilla/surface.html) → aplicación de estilo (sin contenido)
-- [style.css](https://profesorfaco.github.io/digital/plantilla/style.css) → decisiones de estilo (sin contenido) 
+La rúbrica evalúa la modificación grupal de una [plantilla](https://github.com/profesorfaco/digital/tree/main/plantilla) que incluye tres páginas HTML, un estilo CSS (que se aplica a dos de las tres páginas) y una carpeta con imágenes:
+
+- [index.html](https://profesorfaco.github.io/digital/plantilla/index.html) → Página final: con estilo y cotenidos
+- [surface.html](https://profesorfaco.github.io/digital/plantilla/surface.html) → Página de prueba de estilo (sin contenidos)
+- [skeleton.html](https://profesorfaco.github.io/digital/plantilla/skeleton.html) → Página de prueba de contenidos (sin estilo)
 
 - - - - - - - - - - - - - - - - 
 
