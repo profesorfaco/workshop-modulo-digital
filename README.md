@@ -158,9 +158,9 @@ El promedio del curso debe cerrarse el día Miércoles 21 de julio, por lo que e
 
 - - - - - - - - - - - - - - - - 
 
-#### La entrega se hace vía e-mail
+### La entrega se hace vía e-mail
 
-- Escriban a felipe.cortez@ucl, con copia a pdelosri@uc.cl, meinfante@uc.cl y francisca.choy@uc.cl
+- Escriban a felipe.cortez@ucl con copia a pdelosri@uc.cl, meinfante@uc.cl y francisca.choy@uc.cl
 
 - Se recomienda que el asunto sea "ENTREGA FINAL PDP" 
 
