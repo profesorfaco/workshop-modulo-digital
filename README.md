@@ -129,13 +129,25 @@ CSS
 
 JavaScript
 
-
-SVG 
-
+A tales lenguajes le agregamos un desafío en SVG.
 
 - - - - - - - - - - - - - - - 
 
-### FECHA(S) DE ENTREGA DEL ENCARGO
+### LA ENTREGA SE HACE VÍA E-MAIL
+
+- Envíe su e-mail a felipe.cortez@ucl con copia a pdelosri@uc.cl, meinfante@uc.cl y francisca.choy@uc.cl
+
+- Se recomienda que el asunto de su e-mail sea "ENTREGA FINAL PDP" 
+
+- En el cuerpo del correo deben indicar la URL del repositorio de la organización y también la URL de su GitHub Page. Noten las diferencias de ambas:
+
+- - La URL del repositorio de la organización en GitHub puede verse así: https://github.com/Guemil/Guemil_Guidelines
+
+- - La URL de su GitHub Page se puede ver así: https://guemil.github.io/Guemil_Guidelines/
+
+En el ejemplo, **Guemil** es el nombre de la [organización en GitHub](https://git-scm.com/book/es/v2/GitHub-Gesti%C3%B3n-de-una-organizaci%C3%B3n), y **Guemil_Guidelines** es el nombre del repositorio dentro de la misma organización.
+
+### FECHAS PARA EL ENVÍO DE SU E-MAIL
 
 Cuentan con 10 días hábiles. Según la fecha de su entrega, podrán obtener bonificación:
 
@@ -152,22 +164,8 @@ Cuentan con 10 días hábiles. Según la fecha de su entrega, podrán obtener bo
 |  9      | Jueves 15/07        |    + 0.2     |
 |  10     | Viernes 16/07       |    + 0.1     |
 
-Como indica la tabla, las bonificaciones se acaban el día viernes 16 de junio, a las 23:59 hrs. **Y el plazo para entregar se acaba el día domingo 18 de julio a las 23.59 hrs. Si un trabajo llega después de fecha y hora recién indicadas, obtiene nota mínima (1.0)**. 
+> Como indica la tabla, las bonificaciones se acaban el día viernes 16 de junio, a las 23:59 hrs. **Y el plazo para entregar se acaba el día domingo 18 de julio a las 23.59 hrs. Si un trabajo llega después de fecha y hora recién indicadas, obtiene nota mínima (1.0)**. 
 
-El promedio del curso debe cerrarse el día Miércoles 21 de julio, por lo que el equipo docente tendrá sólo dos días para evaluar. Estos son ajustes obigados por el feriado que se agregó a última hora y una solicitud de Dirección de un cierre temprano de promedios.
-
-- - - - - - - - - - - - - - - - 
-
-### La entrega se hace vía e-mail
-
-- Escriban a felipe.cortez@ucl con copia a pdelosri@uc.cl, meinfante@uc.cl y francisca.choy@uc.cl
-
-- Se recomienda que el asunto sea "ENTREGA FINAL PDP" 
-
-- En el cuerpo del correo deben indicar la URL del repositorio de la organización y la URL de su GitHub Page. Noten las diferencias de ambas:
-
--- La URL del repositorio de la organización en GitHub se puede ver así: **https://github.com/Guemil**/Guemil_Guidelines
-
--- La URL de su GitHub Page se puede ver así: **https://guemil.github.io**/Guemil_Guidelines/
+El promedio del curso debe cerrarse el día Miércoles 21 de julio, por lo que el equipo docente tendrá sólo tres días para evaluar. 
 
 **¡Si entrega en fin de semana (sábado 10 o domingo 11 de julio), la fecha de su entrega será el día hábil siguiente!** (lunes 12/07). De esta manera respetamos nuestros días libres y mantenemos el trabajo en los días hábiles.
