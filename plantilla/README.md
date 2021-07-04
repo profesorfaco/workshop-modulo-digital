@@ -1,19 +1,17 @@
-# Procesos de Producción | Módulo Digital | 2020-2
+# PdP · Módulo Digital · 2021-1
 
-### Plantilla | Entrega final
+### Plantilla para el trabajo grupal final del Módulo Digital
 
-La entrega de esta plantilla modificada se hace con [GitHub Pages](https://docs.github.com/es/free-pro-team@latest/github/working-with-github-pages/about-github-pages). Para iniciar el trabajo, corresponde que:
+Para iniciar el trabajo, corresponde que:
 
 1 - cada integrante del equipo de trabajo tenga su cuenta de usuario en esta plataforma https://github.com/
 
-2 - solo un/a integrante del grupo debe [crear una organización nueva desde cero](https://docs.github.com/es/free-pro-team@latest/github/setting-up-and-managing-organizations-and-teams/creating-a-new-organization-from-scratch), e invitar a cada integrante del grupo a ser parte de ella. 
+2 - un/a integrante del grupo debe [crear una organización](https://git-scm.com/book/es/v2/GitHub-Gesti%C3%B3n-de-una-organizaci%C3%B3n), invitar a cada integrante del grupo a ser parte de ella y crear **un repositorio público, con un README.md**. No es necesario que agrege un gitignore ni escoja una licencia para el repositorio.
 
-3 - solo un/a integrante del grupo debería [configurar los permisos base para la organización](https://docs.github.com/es/free-pro-team@latest/github/setting-up-and-managing-organizations-and-teams/setting-base-permissions-for-an-organization), para que cada integrante pueda administrar.
+3 - con los permisos bien configurados, **cualquier integrante del grupo podrá agregar los archivos que están en esta carpeta de nombre plantilla ¡Pero no metan la carpeta! Ábranla y arrastren todo lo que contiene menos el README.md (para no reemplazar el que ya tienen)**
 
-4 - con los permisos bien configurados, cualquier integrante podrá [crear un repositorio nuevo](https://docs.github.com/es/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-new-repository) en esta organización: **Un repositorio público, con un README.md**. No es necesario que se le agrege un gitignore ni se escoja una licencia.
+4 - cuando tengan los archivos en su repositorio, corresponde [configurar su GitHub Page](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site)
 
-5 - luego, en el repositorio recién creado, corresponde [agregar los archivos](https://docs.github.com/es/free-pro-team@latest/github/managing-files-in-a-repository/adding-a-file-to-a-repository) que están en esta carpeta de nombre plantilla ¡Pero no metan la carpeta! Ábranla y arrastren lo que contiene (exceptuando el README.md, para no reemplazar el que ya tienen)
+5 - luego, en la medida que cada integrante del grupo tenga algo resuelto, lo puede sumar directamente al repositorio de su organización, y con eso quedará registrado su colaboración.
 
-6 - cuando tengan los archivos en su repositorio, corresponde [configurar una fuente de publicación para tu sitio de Páginas de GitHub](https://docs.github.com/es/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source)
-
-**Con esto obtendrán una dirección donde ver su versión de https://profesorfaco.github.io/digital/plantilla/**
+Recuerden que su trabajo será evaluado con una rúbrica que pueden consultar en [Google Drive](https://docs.google.com/spreadsheets/d/1syeC8V3ej8MmKgB1F4mXcNk7yjakgOjMSv8cVh6qeO8/edit?usp=sharing).
