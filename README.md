@@ -81,8 +81,7 @@ Si ya tenemos un ancho para la imagen, nos falta un alto. En este punto podemos 
 
 Y lo que queda por cuidar es el peso de la imagen, y para ello está [la optimización con formatos GIF, JPG o PNG](https://squoosh.app/), o hacer pruebas con el formato [WebP](https://developers.google.com/speed/webp). **Si descuidan el peso de las imágenes: Abusarán de la transferencia de datos en la conexión a Internet de cada visitante**. Cuando se abusa de la transferencia, la imagen no se carga rápido. ¿Qué tan rápido debería cargarse? Esto podría darles una idea:
 
-- [Tienes 5 segundos](http://www.tienes5segundos.cl/) se llama un viejo clásico local sobre gestión de contenidos digitales. 
-
+- [Tienes 5 segundos](http://www.tienes5segundos.cl/) se llama un viejo clásico local sobre gestión de contenidos digitales.
 - [5-Second Usability Test](https://www.nngroup.com/videos/5-second-usability-test/) se llama una técnica que permite evaluar la primera impresión de un sitio web. 
 
 Una página web debería estar completamente cargada en 5 segundos → https://nbadiola.com/peso-ideal-fotografia-para-web/
@@ -101,19 +100,16 @@ Una página web debería estar completamente cargada en 5 segundos → https://
 
 **Más información en:**
 
-- *Concise, SCANNABLE, and Objective: How to Write for the Web* → https://www.nngroup.com/articles/how-users-read-on-the-web/
 - *Las 11 reglas de oro para escribir contenido en tu página web* → https://www.jimdo.com/es/blog/escribir-contenido-pagina-web/
+- *Concise, SCANNABLE, and Objective: How to Write for the Web* → https://www.nngroup.com/articles/how-users-read-on-the-web/
 
 #### 5. CÓDIGO FUENTE
 
 Escribir una serie de descripciones o instrucciones en un lenguaje pertinente; en una página web, la descripción se hace habitualmente HTML y CSS, y la programación con JavaScript. A diseñadoras/es con interés por la gráfica, les conviene conocer SVG
 
 - https://github.com/profesorfaco/digital/wiki/HTML
-
 - https://github.com/profesorfaco/digital/wiki/CSS
-
 - https://github.com/profesorfaco/digital/wiki/JavaScript
-
 - https://github.com/profesorfaco/digital/wiki/SVG
 
 - - - - - - - - - - - - - - - 
