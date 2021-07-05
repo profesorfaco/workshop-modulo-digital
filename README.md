@@ -8,11 +8,10 @@
 2. [FUENTES TIPOGRÁFICAS](https://github.com/profesorfaco/digital#2-fuentes-tipogr%C3%A1ficas)
 3. [GRÁFICOS (FIGURATIVO, NO FIGURATIVO Y MIXTO)](https://github.com/profesorfaco/digital#3-gr%C3%A1ficos-figurativo-no-figurativo-y-mixto)
 4. [TEXTOS](https://github.com/profesorfaco/digital#4-textos)
-5. [CÓDIGO FUENTE](https://github.com/profesorfaco/digital#5-c%C3%B3digo-fuente)
 
 Aprovechando tales elementos describiremos y programaremos una página web, tipo [landing page](https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje). 
 
-Para describir y programar esta página usaremos [Bootstrap](https://getbootstrap.com/), lo que nos facilitará el trato con [HTML](https://github.com/profesorfaco/dno075-2020/wiki/HTML) y [CSS](https://github.com/profesorfaco/dno075-2020/wiki/CSS), que son lenguajes descriptivos, y [JavaScript](https://github.com/profesorfaco/dno075-2020/wiki/JavaScript), que es un lenguaje de programación; los tres lenguajes, operando en conjunto, son el código fuente.
+Para describir y programar esta página usaremos [Bootstrap](https://getbootstrap.com/), lo que nos facilitará trabajo con el [CÓDIGO FUENTE](https://github.com/profesorfaco/digital#5-c%C3%B3digo-fuente).
 
 Para que puedan escribir su código fuente, podrán usar uno de los siguientes editores:
 
