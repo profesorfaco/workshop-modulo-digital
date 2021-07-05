@@ -134,16 +134,16 @@ Cuentan con 10 días hábiles. Según la fecha de su entrega, podrán obtener bo
 
 | Día     | Fecha               | Bonificación |
 |:-------:|:--------------------|:------------:|
-|  1      | Lunes 05/07         |    + 1.0     |
-|  2      | Martes 06/07        |    + 0.8     |
-|  3      | Miércoles 07/07     |    + 0.6     |
-|  4      | Jueves 08/07        |    + 0.4     |
-|  5      | Viernes 09/07       |    + 0.2     |
-|  6      | Lunes 12/07         |      0       |
-|  7      | Martes 13/07        |      0       |
-|  8      | Miércoles 14/07     |      0       |
-|  9      | Jueves 15/07        |      0       |
-|  10     | Viernes 16/07       |      0       |
+|  1      | Lunes 05/07         | + 1.0 |
+|  2      | Martes 06/07        | + 0.8 |
+|  3      | Miércoles 07/07     | + 0.6 |
+|  4      | Jueves 08/07        | + 0.4 |
+|  5      | Viernes 09/07       | + 0.2 |
+|  6      | Lunes 12/07         | 0 |
+|  7      | Martes 13/07        | 0 |
+|  8      | Miércoles 14/07     | 0 |
+|  9      | Jueves 15/07        | 0 |
+|  10     | Viernes 16/07       | 0 |
 
 > Como indica la tabla, las bonificaciones se acaban el día viernes 9 de junio, a las 23:59 hrs. **Pero pueden entregar hasta las 23.59 hrs. del viernes 16 de julio. Si un trabajo llega después de fecha y hora recién indicadas, obtiene nota mínima (1.0)**. 
 
