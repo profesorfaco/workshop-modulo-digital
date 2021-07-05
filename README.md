@@ -29,7 +29,7 @@ En el repositorio de organización debe ser visible la contribución de cada int
 
 - - - - - - - - - - - - - - - - 
 
-**Su trabajo grupal final del Módulo Digital será evaluado con [una rúbrica](https://docs.google.com/spreadsheets/d/1syeC8V3ej8MmKgB1F4mXcNk7yjakgOjMSv8cVh6qeO8/edit?usp=sharing) que está disponible en Google Drive.
+**Su trabajo grupal final del Módulo Digital será evaluado con [una rúbrica](https://docs.google.com/spreadsheets/d/1syeC8V3ej8MmKgB1F4mXcNk7yjakgOjMSv8cVh6qeO8/edit?usp=sharing) que está disponible en Google Drive**.
 
 La rúbrica evalúa la modificación grupal de una [plantilla](https://github.com/profesorfaco/digital/tree/main/plantilla) que incluye tres páginas HTML, un estilo CSS (que se aplica a dos de las tres páginas) y una carpeta con imágenes:
 
