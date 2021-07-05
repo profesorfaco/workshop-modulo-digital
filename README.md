@@ -35,7 +35,7 @@ La rúbrica evalúa la modificación grupal de una [plantilla](https://github.co
 
 - [skeleton.html](https://profesorfaco.github.io/digital/plantilla/skeleton.html) → Página de prueba de contenidos (sin estilo)
 - [surface.html](https://profesorfaco.github.io/digital/plantilla/surface.html) → Página de prueba de estilo (sin contenidos)
-- [index.html](https://profesorfaco.github.io/digital/plantilla/index.html) → Página definitiva (con estilo y cotenidos)
+- [index.html](https://profesorfaco.github.io/digital/plantilla/index.html) → Página definitiva (con contenido y estilo aplicados)
 
 - - - - - - - - - - - - - - - - 
 
