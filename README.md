@@ -43,7 +43,7 @@ Si un grupo no usa la [plantilla](https://github.com/profesorfaco/digital/tree/m
 
 **Para abordar el trabajo, conviene que los grupos auto-organicen.** 
 
-Hay que resolver asuntos de colores, fuentes tipográficas, gráficos y textos; un/a integrantes puede encargarse de cada tema. Luego, si el grupos tiene 6 o 7 integrantes, quedan 2 o 3 que podrán trabajar en el código fuente (1 podría dedicarse al skeleton.html, 2 podría dedicarse a surface.html y 3 podría dedicarse al style.css y apoyar en gráficos).**
+Hay que resolver asuntos de colores, fuentes tipográficas, gráficos y textos; un/a integrantes puede encargarse de cada tema. Luego, si el grupos tiene 6 o 7 integrantes, quedan 2 o 3 que podrán trabajar en el código fuente (1 podría dedicarse al skeleton.html, 2 podría dedicarse a surface.html y 3 podría dedicarse al style.css y apoyar en gráficos).
 
 #### 1. COLORES
 
