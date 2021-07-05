@@ -145,7 +145,7 @@ Cuentan con 10 días hábiles. Según la fecha de su entrega, podrán obtener bo
 |  9      | Jueves 15/07        | 0 |
 |  10     | Viernes 16/07       | 0 |
 
-> Como indica la tabla, las bonificaciones se acaban el día viernes 9 de junio, a las 23:59 hrs. **Pero pueden entregar hasta las 23.59 hrs. del viernes 16 de julio. Si un trabajo llega después de fecha y hora recién indicadas, obtiene nota mínima (1.0)**. 
+Como indica la tabla, las bonificaciones se acaban el día viernes 9 de junio, a las 23:59 hrs. **Pero pueden entregar hasta las 23.59 hrs. del viernes 16 de julio. Si un trabajo llega después de fecha y hora recién indicadas, obtiene nota mínima (1.0)**. 
 
 El promedio del curso debe cerrarse el día Miércoles 21 de julio, por lo que el equipo docente contará sólo con un par de días hábiles para evaluar y promediar.
 
