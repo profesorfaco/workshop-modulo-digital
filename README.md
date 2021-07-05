@@ -4,7 +4,7 @@
 
 **Para el trabajo grupal final del Módulo Digital, nos basaremos en lo desarrollado para el Módulo Gráfico**. De allí tomaremos:
 
-1. [COLORES](https://github.com/profesorfaco/digital/blob/main/README.md#1-colores)
+1. [COLORES](https://github.com/profesorfaco/digital#1-colores)
 2. [FUENTES TIPOGRÁFICAS](https://github.com/profesorfaco/digital#2-fuentes-tipogr%C3%A1ficas)
 3. [GRÁFICOS (FIGURATIVO, NO FIGURATIVO Y MIXTO)](https://github.com/profesorfaco/digital#3-gr%C3%A1ficos-figurativo-no-figurativo-y-mixto)
 4. [TEXTOS](https://github.com/profesorfaco/digital#4-textos)
