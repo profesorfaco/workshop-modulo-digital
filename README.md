@@ -39,7 +39,7 @@ La rúbrica evalúa la modificación grupal de una [plantilla](https://github.co
 
 - - - - - - - - - - - - - - - - 
 
-**Para abordar el trabajo, conviene que los grupos auto-organicen el aprendizaje sobre colores, fuentes tipográficas, gráficos y textos; que un/a integrante se encargue de cada tema. Luego, si el grupos tiene 6 o 7 integrantes, quedan 2 o 3 que podrán trabajar exclusivamente en el código fuente.**
+**Para abordar el trabajo, conviene que los grupos auto-organicen el aprendizaje sobre colores, fuentes tipográficas, gráficos y textos en web; que un/a integrante se encargue de cada tema. Luego, si el grupos tiene 6 o 7 integrantes, quedan 2 o 3 que podrán trabajar exclusivamente en el código fuente.**
 
 #### 1. COLORES 
 
@@ -51,7 +51,6 @@ La rúbrica evalúa la modificación grupal de una [plantilla](https://github.co
 
 **Más información en:**
 
-- *¿Cuáles son los códigos de color de HTML?* → https://htmlcolorcodes.com/es/
 - *Simplified color theory for noobs* → https://www.instagram.com/p/CP-_DSMo4vA/
 - *Understanding Web Accessibility Color Contrast Guidelines and Ratios* → https://css-tricks.com/understanding-web-accessibility-color-contrast-guidelines-and-ratios/
 
@@ -69,7 +68,6 @@ Es importanta considerar que:
 
 **Más información**
 
-- *Font Psychology* → https://www.instagram.com/p/CQ0aivMIPSm/
 - *The Elements of Typographic Style Applied to the Web* → http://webtypography.net/
 - *Typography Terms Cheat Sheet* → https://www.nngroup.com/articles/typography-terms-ux/
 
@@ -81,7 +79,7 @@ Para crear estas versiones, y debido a la gran [variedad de pantallas con tamañ
 
 Si ya tenemos un ancho para la imagen, nos falta un alto. En este punto podemos encontrar un lugar más seguro aprovechando [la relación de aspecto](https://es.wikipedia.org/wiki/Relaci%C3%B3n_de_aspecto) más probable; podría ser que una imagen que se vea a pantalla completa en *smartphone (small)* se acerque al formato Panavision vertical (2.39:1), mientras que una imagen que se vea a pantalla completa en *tablet (medium)* podría estar más cerca de la razón 3:2. Y podría ser que una imagen que se vea completa en *desktop (large)* esté más cerca del 16:9.
 
-Y lo que queda por cuidar es el peso de la imagen, y para ello está la optimización con formatos GIF, JPG o PNG, o hacer pruebas con el formato [WebP](https://developers.google.com/speed/webp). **Si descuidan el peso de las imágenes: Abusarán de la transferencia de datos en la conexión a Internet de cada visitante**. Cuando se abusa de la transferencia, la imagen no se carga rápido. ¿Qué tan rápido debería cargarse? Esto podría darles una idea:
+Y lo que queda por cuidar es el peso de la imagen, y para ello está [la optimización con formatos GIF, JPG o PNG](https://squoosh.app/), o hacer pruebas con el formato [WebP](https://developers.google.com/speed/webp). **Si descuidan el peso de las imágenes: Abusarán de la transferencia de datos en la conexión a Internet de cada visitante**. Cuando se abusa de la transferencia, la imagen no se carga rápido. ¿Qué tan rápido debería cargarse? Esto podría darles una idea:
 
 - [Tienes 5 segundos](http://www.tienes5segundos.cl/) se llama un viejo clásico local sobre gestión de contenidos digitales. 
 
@@ -89,15 +87,9 @@ Y lo que queda por cuidar es el peso de la imagen, y para ello está la optimiza
 
 Una página web debería estar completamente cargada en 5 segundos → https://nbadiola.com/peso-ideal-fotografia-para-web/
 
-**3.2. gráficos no figurativos**: Este gráfico debe completarse con datos reales y la utilización de [Chart.js](https://www.chartjs.org/). El despliegue más adecuado de datos es lo que debe ayudarles a decidir entre: [Line chart](https://www.chartjs.org/docs/latest/charts/line.html), [Bar Chart](https://www.chartjs.org/docs/latest/charts/bar.html), [Radar Chart](https://www.chartjs.org/docs/latest/charts/radar.html), [Doughnut/Pie Charts](https://www.chartjs.org/docs/latest/charts/doughnut.html), [Polar Area Chart](https://www.chartjs.org/docs/latest/charts/polar.html), [Bubble Chart](https://www.chartjs.org/docs/latest/charts/bubble.html) o [Scatter Chart](https://www.chartjs.org/docs/latest/charts/scatter.html). 
+**3.2. gráficos mixtos**: Este gráfico debe completarse con un trabajo en Illustrator o InkScape, a exportar como SVG. En ese trabajo deben utilizar un gráfico figurativo (de peso cuidado) en una capa de fondo y sobre ella dibujar algo no figurativo. Con esto pueden, por ejemplo, intervenir [una imagen satelital](https://graphics.reuters.com/CALIFORNIA-WILDFIRES/xegvboxrypq/index.html) o [un mapa](https://graphics.reuters.com/USA-WILDFIRES/WINE/bdwpkkmxmpm/index.html).
 
-**3.3. gráficos no figurativos**: Este gráfico debe completarse con un trabajo en Illustrator o InkScape, a exportar como SVG. En ese trabajo deben utilizar un gráfico figurativo (de peso cuidado) en una capa de fondo y sobre ella dibujar algo no figurativo. Con esto pueden, por ejemplo, intervenir [una imagen satelital](https://graphics.reuters.com/CALIFORNIA-WILDFIRES/xegvboxrypq/index.html) o [un mapa](https://graphics.reuters.com/USA-WILDFIRES/WINE/bdwpkkmxmpm/index.html).
-
-**Más información**
-
-- *Optimización de imágenes* → https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html
-- *Lazy loading de imágenes ya forma parte del estándar HTML* → https://carlosazaustre.es/lazy-loading-image
-- *Use el atributo alt* → https://www.w3.org/QA/Tips/altAttribute.html.es
+**3.3. gráficos no figurativos**: Este gráfico debe completarse con datos reales y la utilización de [Chart.js](https://www.chartjs.org/). El despliegue más adecuado de datos es lo que debe ayudarles a decidir entre: [Line chart](https://www.chartjs.org/docs/latest/charts/line.html), [Bar Chart](https://www.chartjs.org/docs/latest/charts/bar.html), [Radar Chart](https://www.chartjs.org/docs/latest/charts/radar.html), [Doughnut/Pie Charts](https://www.chartjs.org/docs/latest/charts/doughnut.html), [Polar Area Chart](https://www.chartjs.org/docs/latest/charts/polar.html), [Bubble Chart](https://www.chartjs.org/docs/latest/charts/bubble.html) o [Scatter Chart](https://www.chartjs.org/docs/latest/charts/scatter.html). 
 
 #### 4. TEXTOS
 
@@ -128,7 +120,7 @@ Escribir una serie de descripciones o instrucciones en un lenguaje pertinente; e
 
 ### La entrega se hace vía e-mail
 
-- Envíe su e-mail a felipe.cortez@ucl con copia a pdelosri@uc.cl, meinfante@uc.cl y francisca.choy@uc.cl
+- Envíe un e-mail a felipe.cortez@ucl con copia a pdelosri@uc.cl, meinfante@uc.cl y francisca.choy@uc.cl
 
 - Se recomienda que el asunto de su e-mail sea "ENTREGA FINAL PDP" 
 
@@ -140,7 +132,7 @@ Escribir una serie de descripciones o instrucciones en un lenguaje pertinente; e
 
 En el ejemplo, **Guemil** es el nombre de la [organización en GitHub](https://git-scm.com/book/es/v2/GitHub-Gesti%C3%B3n-de-una-organizaci%C3%B3n), y **Guemil_Guidelines** es el nombre del repositorio dentro de la misma organización.
 
-#### FECHAS PARA EL ENVÍO DE SU E-MAIL
+#### ¿Cuándo enviar el e-mail?
 
 Cuentan con 10 días hábiles. Según la fecha de su entrega, podrán obtener bonificación:
 
@@ -159,6 +151,6 @@ Cuentan con 10 días hábiles. Según la fecha de su entrega, podrán obtener bo
 
 > Como indica la tabla, las bonificaciones se acaban el día viernes 16 de junio, a las 23:59 hrs. **Y el plazo para entregar se acaba el día domingo 18 de julio a las 23.59 hrs. Si un trabajo llega después de fecha y hora recién indicadas, obtiene nota mínima (1.0)**. 
 
-El promedio del curso debe cerrarse el día Miércoles 21 de julio, por lo que el equipo docente tendrá sólo tres días para evaluar. 
+El promedio del curso debe cerrarse el día Miércoles 21 de julio, por lo que el equipo docente tendrá sólo tres días para evaluar y promediar.
 
 **¡Si entrega en fin de semana (sábado 10 o domingo 11 de julio), la fecha de su entrega será el día hábil siguiente!** (lunes 12/07). De esta manera respetamos nuestros días libres y mantenemos el trabajo en los días hábiles.
