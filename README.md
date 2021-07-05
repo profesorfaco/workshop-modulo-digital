@@ -112,8 +112,6 @@ Una página web debería estar completamente cargada en 5 segundos → https://
 - *Concise, SCANNABLE, and Objective: How to Write for the Web* → https://www.nngroup.com/articles/how-users-read-on-the-web/
 - *Las 11 reglas de oro para escribir contenido en tu página web* → https://www.jimdo.com/es/blog/escribir-contenido-pagina-web/
 
-- - - - - - - - - - - - - - - - 
-
 #### 5. código fuente
 
 Escribir una serie de descripciones o instrucciones en un lenguaje pertinente; en una página web, la descripción se hace habitualmente HTML y CSS, y la programación con JavaScript. A diseñadoras/es con interés por la gráfica, les conviene conocer SVG
