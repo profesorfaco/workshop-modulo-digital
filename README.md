@@ -41,7 +41,7 @@ La rúbrica evalúa la modificación grupal de una [plantilla](https://github.co
 
 **Para abordar el trabajo, conviene que los grupos auto-organicen el aprendizaje sobre colores, fuentes tipográficas, gráficos y textos; que un/a integrante se encargue de cada tema. Luego, si el grupos tiene 6 o 7 integrantes, quedan 2 o 3 que podrán trabajar exclusivamente en el código fuente.**
 
-#### 1. colores 
+#### 1. COLORES 
 
 1.1. Transformar sus colores para impresión (Pantone/CMYK) por equivalentes para pantalla (HEX/RGB) → https://www.pantone.com/color-finder/
 
@@ -55,7 +55,7 @@ La rúbrica evalúa la modificación grupal de una [plantilla](https://github.co
 - *Simplified color theory for noobs* → https://www.instagram.com/p/CP-_DSMo4vA/
 - *Understanding Web Accessibility Color Contrast Guidelines and Ratios* → https://css-tricks.com/understanding-web-accessibility-color-contrast-guidelines-and-ratios/
 
-#### 2. fuentes tipográficas 
+#### 2. FUENTES TIPOGRÁFICAS 
 
 2.1. Buscar las fuentes tipográficas en el catálogo de Google Fonts; en caso de no encontrarla(s), reemplácenla(s) por otra(s) disponible(s) en el mismo catálogo → https://fonts.google.com/
 
@@ -73,7 +73,7 @@ Es importanta considerar que:
 - *The Elements of Typographic Style Applied to the Web* → http://webtypography.net/
 - *Typography Terms Cheat Sheet* → https://www.nngroup.com/articles/typography-terms-ux/
 
-#### 3. gráficos (figurativos, no figurativos y mixtos)
+#### 3. GRÁFICOS (FIGURATIVO, NO FIGURATIVO Y MIXTO)
 
 **3.1. gráficos figurativos (imágenes o ilustraciones)**: Crear tres versiones para cada una de las imágenes que utilizaron en la infografía para el módulo de diseño gráfico. Cada una de tales versiones tendrá que responder a *smartphone (small)*, *tablet (medium)* o *desktop (large)*.
 
@@ -99,7 +99,7 @@ Una página web debería estar completamente cargada en 5 segundos → https://
 - *Lazy loading de imágenes ya forma parte del estándar HTML* → https://carlosazaustre.es/lazy-loading-image
 - *Use el atributo alt* → https://www.w3.org/QA/Tips/altAttribute.html.es
 
-#### 4. textos
+#### 4. TEXTOS
 
 4.1. Revisar la credibilidad del texto original → http://credibility.stanford.edu/guidelines/index.html
 
@@ -112,7 +112,7 @@ Una página web debería estar completamente cargada en 5 segundos → https://
 - *Concise, SCANNABLE, and Objective: How to Write for the Web* → https://www.nngroup.com/articles/how-users-read-on-the-web/
 - *Las 11 reglas de oro para escribir contenido en tu página web* → https://www.jimdo.com/es/blog/escribir-contenido-pagina-web/
 
-#### 5. código fuente
+#### 5. CÓDIGO FUENTE
 
 Escribir una serie de descripciones o instrucciones en un lenguaje pertinente; en una página web, la descripción se hace habitualmente HTML y CSS, y la programación con JavaScript. A diseñadoras/es con interés por la gráfica, les conviene conocer SVG
 
