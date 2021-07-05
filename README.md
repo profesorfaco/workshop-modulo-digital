@@ -55,8 +55,6 @@ La rúbrica evalúa la modificación grupal de una [plantilla](https://github.co
 - *Simplified color theory for noobs* → https://www.instagram.com/p/CP-_DSMo4vA/
 - *Understanding Web Accessibility Color Contrast Guidelines and Ratios* → https://css-tricks.com/understanding-web-accessibility-color-contrast-guidelines-and-ratios/
 
-- - - - - - - - - - - - - - - - 
-
 #### 2. fuentes tipográficas 
 
 2.1. Buscar las fuentes tipográficas en el catálogo de Google Fonts; en caso de no encontrarla(s), reemplácenla(s) por otra(s) disponible(s) en el mismo catálogo → https://fonts.google.com/
@@ -74,8 +72,6 @@ Es importanta considerar que:
 - *Font Psychology* → https://www.instagram.com/p/CQ0aivMIPSm/
 - *The Elements of Typographic Style Applied to the Web* → http://webtypography.net/
 - *Typography Terms Cheat Sheet* → https://www.nngroup.com/articles/typography-terms-ux/
-
-- - - - - - - - - - - - - - - - 
 
 #### 3. gráficos (figurativos, no figurativos y mixtos)
 
@@ -103,8 +99,6 @@ Una página web debería estar completamente cargada en 5 segundos → https://
 - *Lazy loading de imágenes ya forma parte del estándar HTML* → https://carlosazaustre.es/lazy-loading-image
 - *Use el atributo alt* → https://www.w3.org/QA/Tips/altAttribute.html.es
 
-- - - - - - - - - - - - - - - - 
-
 #### 4. textos
 
 4.1. Revisar la credibilidad del texto original → http://credibility.stanford.edu/guidelines/index.html
@@ -122,7 +116,7 @@ Una página web debería estar completamente cargada en 5 segundos → https://
 
 #### 5. código fuente
 
-Un conjunto de descripciones o instrucciones escritas en un lenguaje pertinente; en una página web, la descripción se hace habitualmente HTML y CSS, y la programación con JavaScript. A diseñadoras/es con interés por la gráfica, les conviene conocer SVG
+Escribir una serie de descripciones o instrucciones en un lenguaje pertinente; en una página web, la descripción se hace habitualmente HTML y CSS, y la programación con JavaScript. A diseñadoras/es con interés por la gráfica, les conviene conocer SVG
 
 - https://github.com/profesorfaco/digital/wiki/HTML
 
@@ -134,7 +128,7 @@ Un conjunto de descripciones o instrucciones escritas en un lenguaje pertinente;
 
 - - - - - - - - - - - - - - - 
 
-## LA ENTREGA SE HACE VÍA E-MAIL
+### La entrega se hace vía e-mail
 
 - Envíe su e-mail a felipe.cortez@ucl con copia a pdelosri@uc.cl, meinfante@uc.cl y francisca.choy@uc.cl
 
