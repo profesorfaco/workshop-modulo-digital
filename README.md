@@ -144,11 +144,11 @@ Cuentan con 10 días hábiles. Según la fecha de su entrega, podrán obtener bo
 
 | Día     | Fecha               | Bonificación |
 |:-------:|:--------------------|:------------:|
-|  1      | Lunes 05/07         | + 1.0 |
-|  2      | Martes 06/07        | + 0.8 |
-|  3      | Miércoles 07/07     | + 0.6 |
-|  4      | Jueves 08/07        | + 0.4 |
-|  5      | Viernes 09/07       | + 0.2 |
+|  1      | Lunes 05/07         | + 0.5 |
+|  2      | Martes 06/07        | + 0.4 |
+|  3      | Miércoles 07/07     | + 0.3 |
+|  4      | Jueves 08/07        | + 0.2 |
+|  5      | Viernes 09/07       | + 0.1 |
 |  6      | Lunes 12/07         | 0 |
 |  7      | Martes 13/07        | 0 |
 |  8      | Miércoles 14/07     | 0 |
