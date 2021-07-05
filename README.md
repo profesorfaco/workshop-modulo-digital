@@ -33,9 +33,9 @@ En el repositorio de organización debe ser visible la contribución de cada int
 
 La rúbrica evalúa la modificación grupal de una [plantilla](https://github.com/profesorfaco/digital/tree/main/plantilla) que incluye tres páginas HTML, un estilo CSS (que se aplica a dos de las tres páginas) y una carpeta con imágenes:
 
-- [index.html](https://profesorfaco.github.io/digital/plantilla/index.html) → Página final: con estilo y cotenidos
-- [surface.html](https://profesorfaco.github.io/digital/plantilla/surface.html) → Página de prueba de estilo (sin contenidos)
 - [skeleton.html](https://profesorfaco.github.io/digital/plantilla/skeleton.html) → Página de prueba de contenidos (sin estilo)
+- [surface.html](https://profesorfaco.github.io/digital/plantilla/surface.html) → Página de prueba de estilo (sin contenidos)
+- [index.html](https://profesorfaco.github.io/digital/plantilla/index.html) → Página definitiva (con estilo y cotenidos)
 
 - - - - - - - - - - - - - - - - 
 
