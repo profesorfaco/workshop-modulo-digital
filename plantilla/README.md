@@ -8,7 +8,7 @@ Para iniciar el trabajo, corresponde que:
 
 2 - un/a integrante del grupo debe [crear una organización](https://git-scm.com/book/es/v2/GitHub-Gesti%C3%B3n-de-una-organizaci%C3%B3n), invitar a cada integrante del grupo a ser parte de ella y crear **un repositorio público, con un README.md**. No es necesario que agrege un gitignore ni escoja una licencia para el repositorio.
 
-3 - con los permisos bien configurados, **cualquier integrante del grupo podrá agregar los archivos que están en esta carpeta de nombre plantilla ¡Pero no metan la carpeta! Ábranla y arrastren todo lo que contiene menos el README.md (para no reemplazar el que ya tienen)**
+3 - con los permisos bien configurados, **cualquier integrante del grupo podrá agregar los archivos que están en esta carpeta de nombre plantilla ¡Pero no metan la carpeta! Ábranla y arrastren todo lo que contiene menos el `README.md` (para no reemplazar el que ya tienen)**
 
 4 - cuando tengan los archivos en su repositorio, corresponde [configurar su GitHub Page](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site)
 
