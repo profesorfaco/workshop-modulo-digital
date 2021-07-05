@@ -41,7 +41,7 @@ La rúbrica evalúa la modificación grupal de una [plantilla](https://github.co
 
 **Para abordar el trabajo, conviene que los grupos auto-organicen el aprendizaje sobre colores, fuentes tipográficas, gráficos y textos; que un/a integrante se encargue de cada tema. Luego, si el grupos tiene 6 o 7 integrantes, quedan 2 o 3 que podrán trabajar exclusivamente en el código fuente.**
 
-### 1. colores 
+#### 1. colores 
 
 1.1. Transformar sus colores para impresión (Pantone/CMYK) por equivalentes para pantalla (HEX/RGB) → https://www.pantone.com/color-finder/
 
@@ -57,7 +57,7 @@ La rúbrica evalúa la modificación grupal de una [plantilla](https://github.co
 
 - - - - - - - - - - - - - - - - 
 
-### 2. fuentes tipográficas 
+#### 2. fuentes tipográficas 
 
 2.1. Buscar las fuentes tipográficas en el catálogo de Google Fonts; en caso de no encontrarla(s), reemplácenla(s) por otra(s) disponible(s) en el mismo catálogo → https://fonts.google.com/
 
@@ -77,7 +77,7 @@ Es importanta considerar que:
 
 - - - - - - - - - - - - - - - - 
 
-### 3. gráficos (figurativos, no figurativos y mixtos)
+#### 3. gráficos (figurativos, no figurativos y mixtos)
 
 **3.1. gráficos figurativos (imágenes o ilustraciones)**: Crear tres versiones para cada una de las imágenes que utilizaron en la infografía para el módulo de diseño gráfico. Cada una de tales versiones tendrá que responder a *smartphone (small)*, *tablet (medium)* o *desktop (large)*.
 
@@ -105,7 +105,7 @@ Una página web debería estar completamente cargada en 5 segundos → https://
 
 - - - - - - - - - - - - - - - - 
 
-### 4. textos
+#### 4. textos
 
 4.1. Revisar la credibilidad del texto original → http://credibility.stanford.edu/guidelines/index.html
 
@@ -120,21 +120,21 @@ Una página web debería estar completamente cargada en 5 segundos → https://
 
 - - - - - - - - - - - - - - - - 
 
-### 5. código fuente
+#### 5. código fuente
 
-Un conjunto de descripciones o instrucciones escritas en un lenguaje pertinente; en una página web, la descripción se hace habitualmente HTML y CSS, y la programación con JavaScript
+Un conjunto de descripciones o instrucciones escritas en un lenguaje pertinente; en una página web, la descripción se hace habitualmente HTML y CSS, y la programación con JavaScript. A diseñadoras/es con interés por la gráfica, les conviene conocer SVG
 
-HTML
+- https://github.com/profesorfaco/digital/wiki/HTML
 
-CSS
+- https://github.com/profesorfaco/digital/wiki/CSS
 
-JavaScript
+- https://github.com/profesorfaco/digital/wiki/JavaScript
 
-A tales lenguajes le agregamos un desafío en SVG.
+- https://github.com/profesorfaco/digital/wiki/SVG
 
 - - - - - - - - - - - - - - - 
 
-### LA ENTREGA SE HACE VÍA E-MAIL
+## LA ENTREGA SE HACE VÍA E-MAIL
 
 - Envíe su e-mail a felipe.cortez@ucl con copia a pdelosri@uc.cl, meinfante@uc.cl y francisca.choy@uc.cl
 
@@ -142,13 +142,13 @@ A tales lenguajes le agregamos un desafío en SVG.
 
 - En el cuerpo del correo deben indicar la URL del repositorio de la organización y también la URL de su GitHub Page. Noten las diferencias de ambas:
 
-- - La URL del repositorio de la organización en GitHub puede verse así: https://github.com/Guemil/Guemil_Guidelines
+  - La URL del repositorio de la organización en GitHub puede verse así: https://github.com/Guemil/Guemil_Guidelines
 
-- - La URL de su GitHub Page se puede ver así: https://guemil.github.io/Guemil_Guidelines/
+  - La URL de su GitHub Page se puede ver así: https://guemil.github.io/Guemil_Guidelines/
 
 En el ejemplo, **Guemil** es el nombre de la [organización en GitHub](https://git-scm.com/book/es/v2/GitHub-Gesti%C3%B3n-de-una-organizaci%C3%B3n), y **Guemil_Guidelines** es el nombre del repositorio dentro de la misma organización.
 
-### FECHAS PARA EL ENVÍO DE SU E-MAIL
+#### FECHAS PARA EL ENVÍO DE SU E-MAIL
 
 Cuentan con 10 días hábiles. Según la fecha de su entrega, podrán obtener bonificación:
 
