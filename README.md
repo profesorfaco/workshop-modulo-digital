@@ -11,7 +11,7 @@
 
 Aprovechando tales elementos describiremos y programaremos una página web, tipo [landing page](https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje). 
 
-Para describir y programar esta página usaremos [Bootstrap](https://getbootstrap.com/), lo que nos facilitará trabajo con el [CÓDIGO FUENTE](https://github.com/profesorfaco/digital#5-c%C3%B3digo-fuente).
+Para describir y programar esta página usaremos [Bootstrap](https://getbootstrap.com/), lo que nos facilitará trabajo con el 5. [CÓDIGO FUENTE](https://github.com/profesorfaco/digital#5-c%C3%B3digo-fuente).
 
 Para que puedan escribir su código fuente, podrán usar uno de los siguientes editores:
 
