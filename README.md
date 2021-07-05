@@ -6,8 +6,8 @@
 
 - [COLORES](https://github.com/profesorfaco/digital#1-colores)
 - [FUENTES TIPOGRÁFICAS](https://github.com/profesorfaco/digital#2-fuentes-tipogr%C3%A1ficas)
-- [GRÁFICOS (FIGURATIVO, NO FIGURATIVO Y MIXTO)](https://github.com/profesorfaco/digital#3-gr%C3%A1ficos-figurativo-no-figurativo-y-mixto)
-- [TEXTOS](https://github.com/profesorfaco/digital#4-textos)
+- [TEXTOS](https://github.com/profesorfaco/digital#3-textos)
+- [GRÁFICOS (FIGURATIVO, NO FIGURATIVO Y MIXTO)](https://github.com/profesorfaco/digital#4-gr%C3%A1ficos-figurativo-no-figurativo-y-mixto)
 
 Aprovechando tales elementos describiremos y programaremos una página web, tipo [landing page](https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje). 
 
@@ -43,7 +43,7 @@ Si un grupo no usa la [plantilla](https://github.com/profesorfaco/digital/tree/m
 
 **Para abordar el trabajo, conviene que los grupos auto-organicen.** 
 
-Hay que resolver asuntos de colores, fuentes tipográficas, gráficos y textos; un/a integrantes puede encargarse de cada tema. Luego, si el grupos tiene 6 o 7 integrantes, quedan 2 o 3 que podrán trabajar en el código fuente (1 podría dedicarse al skeleton.html, 2 podría dedicarse a surface.html y 3 podría dedicarse al style.css y apoyar en gráficos).
+Hay que resolver asuntos de colores, fuentes tipográficas, textos y gráficos; un/a integrantes puede encargarse de cada tema. Luego, si el grupos tiene 6 o 7 integrantes, quedan 2 o 3 que podrán trabajar en el código fuente (1 podría dedicarse al skeleton.html, 2 podría dedicarse a surface.html y 3 podría apoyar en gráficos desde el código fuente).
 
 #### 1. COLORES
 
@@ -66,7 +66,7 @@ Quien se encargue de las fuentes tipográficas, tendrá que:
 
 2.1. hacer una búsqueda en el [catálogo de Google Fonts](https://fonts.google.com/); en caso de no encontrarla aquellas fuentes usadas en la infografía, tendrá que reemplazarlas por las disponibles de rasgos similares. 
 
-2.2. escoger una escala de cuerpos tipográficos que empice en un tamaño que permita inducir al estado de enérgico reposo en la lectura de los párrafos. Además de un tamaño para **párrafo** (normal), **párrafo destacado** (más grande de lo normal) y notas al margen (más pequeño de lo normal), pueden establecer tamaños para distintos niveles de encabezados (un máximo de 6, con 1 título y 5 subtítulos en distintos tamaños) → https://bootstrapcreative.com/bootstrap-text-sizes/
+2.2. escoger pesos que permitan reconocer la relevancia de los títulos e inducir a un estado de enérgico reposo en la lectura de los párrafos.
 
 2.3. modificar la importación de las fuentes y su aplicación en el [style.css](https://profesorfaco.github.io/digital/plantilla/style.css) de la correspondiente copia de plantilla.
 
@@ -75,11 +75,26 @@ Quien se encargue de las fuentes tipográficas, tendrá que:
 - *The Elements of Typographic Style Applied to the Web* → http://webtypography.net/
 - *Typography Terms Cheat Sheet* → https://www.nngroup.com/articles/typography-terms-ux/
 
-#### 3. GRÁFICOS (FIGURATIVO, NO FIGURATIVO Y MIXTO)
+#### 3. TEXTOS
+
+Quien se encargue de los textos, tendrá que:
+
+3.1. revisar la credibilidad del texto original → http://credibility.stanford.edu/guidelines/index.html
+
+3.2. establecer un tono de voz pertinente al mensaje → https://www.nngroup.com/articles/tone-of-voice-dimensions/
+
+3.3. editar el textos para su lectura en web → https://www.nngroup.com/articles/how-users-read-on-the-web/
+
+**Más información en:**
+
+- *Las 11 reglas de oro para escribir contenido en tu página web* → https://www.jimdo.com/es/blog/escribir-contenido-pagina-web/
+- *Concise, SCANNABLE, and Objective: How to Write for the Web* → https://www.nngroup.com/articles/how-users-read-on-the-web/
+
+#### 4. GRÁFICOS (FIGURATIVO, NO FIGURATIVO Y MIXTO)
 
 Quien(es) se encargue(n) de los gráficos tendrá(n) que multiplicar su trabajo por 3 tipos de gráficos distintos:
 
-**3.1. gráficos figurativos (imágenes o ilustraciones)**: Crear tres versiones para cada una de estas imágenes, para responder a *smartphone (small)*, *tablet (medium)* o *desktop (large)*.
+**4.1. gráficos figurativos (imágenes o ilustraciones)**: Crear tres versiones para cada una de estas imágenes, para responder a *smartphone (small)*, *tablet (medium)* o *desktop (large)*.
 
 Para crear estas versiones, y debido a la gran [variedad de pantallas con tamaños y resoluciones](http://screensiz.es/), no existen recetas infalibles. Todo es una apuesta. Pero podemos quedar en un lugar suficientemente seguro considerando los tamaños de ancho de pantalla que usa [Bootstrap](https://getbootstrap.com/docs/5.0/layout/breakpoints/) como referencia para sus cambios entre *smartphone (small)*, *tablet (medium)* y *desktop (large)*, que son, respectivamente, 576px, 768px y 992px.
 
@@ -92,24 +107,9 @@ Y lo que queda por cuidar es el peso de la imagen, y para ello está [la optimiz
 
 Una página web debería estar completamente cargada en 5 segundos → https://nbadiola.com/peso-ideal-fotografia-para-web/
 
-**3.2. gráficos mixtos**: Este gráfico debe completarse con un trabajo en Illustrator o InkScape, a exportar como SVG. En ese trabajo deben utilizar un gráfico figurativo en una capa y sobre ella tendrán que dibujar algo no figurativo. Con esto pueden, por ejemplo, intervenir [una imagen satelital](https://graphics.reuters.com/CALIFORNIA-WILDFIRES/xegvboxrypq/index.html).
+**4.2. gráficos mixtos**: Este gráfico debe completarse con un trabajo en Illustrator o InkScape, a exportar como SVG. En ese trabajo deben utilizar un gráfico figurativo en una capa y sobre ella tendrán que dibujar algo no figurativo. Con esto pueden, por ejemplo, intervenir [una imagen satelital](https://graphics.reuters.com/CALIFORNIA-WILDFIRES/xegvboxrypq/index.html).
 
-**3.3. gráficos no figurativos**: Este gráfico debe completarse con datos reales y la utilización de [Chart.js](https://www.chartjs.org/). El despliegue más adecuado de datos es lo que debe ayudarles a decidir entre: [Line chart](https://www.chartjs.org/docs/latest/charts/line.html), [Bar Chart](https://www.chartjs.org/docs/latest/charts/bar.html), [Radar Chart](https://www.chartjs.org/docs/latest/charts/radar.html), [Doughnut/Pie Charts](https://www.chartjs.org/docs/latest/charts/doughnut.html), [Polar Area Chart](https://www.chartjs.org/docs/latest/charts/polar.html), [Bubble Chart](https://www.chartjs.org/docs/latest/charts/bubble.html) o [Scatter Chart](https://www.chartjs.org/docs/latest/charts/scatter.html). 
-
-#### 4. TEXTOS
-
-Quien se encargue de los textos, tendrá que:
-
-4.1. revisar la credibilidad del texto original → http://credibility.stanford.edu/guidelines/index.html
-
-4.2. establecer un tono de voz pertinente al mensaje → https://www.nngroup.com/articles/tone-of-voice-dimensions/
-
-4.3. editar el textos para su lectura en web → https://www.nngroup.com/articles/how-users-read-on-the-web/
-
-**Más información en:**
-
-- *Las 11 reglas de oro para escribir contenido en tu página web* → https://www.jimdo.com/es/blog/escribir-contenido-pagina-web/
-- *Concise, SCANNABLE, and Objective: How to Write for the Web* → https://www.nngroup.com/articles/how-users-read-on-the-web/
+**4.3. gráficos no figurativos**: Este gráfico debe completarse con datos reales y la utilización de [Chart.js](https://www.chartjs.org/). El despliegue más adecuado de datos es lo que debe ayudarles a decidir entre: [Line chart](https://www.chartjs.org/docs/latest/charts/line.html), [Bar Chart](https://www.chartjs.org/docs/latest/charts/bar.html), [Radar Chart](https://www.chartjs.org/docs/latest/charts/radar.html), [Doughnut/Pie Charts](https://www.chartjs.org/docs/latest/charts/doughnut.html), [Polar Area Chart](https://www.chartjs.org/docs/latest/charts/polar.html), [Bubble Chart](https://www.chartjs.org/docs/latest/charts/bubble.html) o [Scatter Chart](https://www.chartjs.org/docs/latest/charts/scatter.html). 
 
 #### 5. CÓDIGO FUENTE
 
