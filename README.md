@@ -2,18 +2,11 @@
 
 ### Código fuente para el desarrollo objetos digitales
 
-**Para el trabajo grupal final del Módulo Digital, nos basaremos en lo desarrollado para el Módulo Gráfico**. De allí tomaremos:
+**Para el trabajo grupal final del Módulo Digital, nos basaremos en lo desarrollado para el Módulo Gráfico**. De allí tomaremos colores, fuentes tipográficas, textos y gráficos (figurativos, no figurativos y mixtos)
 
-- [COLORES](https://github.com/profesorfaco/digital#1-colores)
-- [FUENTES TIPOGRÁFICAS](https://github.com/profesorfaco/digital#2-fuentes-tipogr%C3%A1ficas)
-- [TEXTOS](https://github.com/profesorfaco/digital#3-textos)
-- [GRÁFICOS (FIGURATIVO, NO FIGURATIVO Y MIXTO)](https://github.com/profesorfaco/digital#4-gr%C3%A1ficos-figurativo-no-figurativo-y-mixto)
+Aprovechando tales elementos describiremos y programaremos una página web tipo [landing page](https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje). Para facilitar el trabajo con el código fuente de la página web, usaremos [Bootstrap](https://getbootstrap.com/).
 
-Aprovechando tales elementos describiremos y programaremos una página web, tipo [landing page](https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje). 
-
-Para describir y programar esta página web usaremos [Bootstrap](https://getbootstrap.com/), lo que nos facilitará trabajo con el [CÓDIGO FUENTE](https://github.com/profesorfaco/digital#5-c%C3%B3digo-fuente).
-
-Para escribir su código fuente, podrían usar uno de los siguientes editores:
+Para escribir su código fuente según las convenciones de [Bootstrap](https://getbootstrap.com/), podrían usar uno de los siguientes editores:
 
 - [Sublime Text](https://www.sublimetext.com/) 
 - [Atom.io](https://atom.io/)
@@ -31,19 +24,13 @@ En el repositorio de organización debe ser visible la contribución de cada int
 
 **Su trabajo grupal final del Módulo Digital será evaluado con [una rúbrica](https://docs.google.com/spreadsheets/d/1syeC8V3ej8MmKgB1F4mXcNk7yjakgOjMSv8cVh6qeO8/edit?usp=sharing) que está disponible en Google Drive**.
 
-La rúbrica evalúa la modificación grupal de una [plantilla](https://github.com/profesorfaco/digital/tree/main/plantilla) que incluye tres páginas HTML, un estilo CSS (que se aplica a dos de las tres páginas) y una carpeta con imágenes:
+La rúbrica evalúa la modificación grupal de una [plantilla](https://github.com/profesorfaco/modulo-digital/tree/main/plantilla) que incluye dos páginas HTML, un estilo CSS y una carpeta con imágenes.
 
-- [skeleton.html](https://profesorfaco.github.io/digital/plantilla/skeleton.html) → Página de prueba de contenidos (sin estilo)
-- [surface.html](https://profesorfaco.github.io/digital/plantilla/surface.html) → Página de prueba de estilo (sin contenidos)
-- [index.html](https://profesorfaco.github.io/digital/plantilla/index.html) → Página definitiva (con contenido y estilo aplicados)
-
-Si un grupo no usa la [plantilla](https://github.com/profesorfaco/digital/tree/main/plantilla) y entrega una página web cualquiera, se arriega a obtener nota mínima porque los criterios de la rúbrica no podrán aplicarse. 
+Si un grupo no usa la [plantilla](https://github.com/profesorfaco/modulo-digital/tree/main/plantilla) y entrega una página web cualquiera, se arriega a obtener nota mínima porque los criterios de la rúbrica no podrán aplicarse. 
 
 - - - - - - - - - - - - - - - - 
 
-**Para abordar el trabajo, conviene que los grupos auto-organicen.** 
-
-Hay que resolver asuntos de colores, fuentes tipográficas, textos y gráficos; un/a integrantes puede encargarse de cada tema. Luego, si el grupos tiene 6 o 7 integrantes, quedan 2 o 3 que podrán trabajar en el código fuente (1 podría dedicarse al skeleton.html, 2 podría dedicarse a surface.html y 3 podría apoyar en gráficos desde el código fuente).
+**Para abordar el trabajo, conviene que los grupos auto-organicen** considerando que corresponde resolver asuntos de colores, fuentes tipográficas, textos y gráficos; un/a integrantes puede encargarse de cada tema. Luego, si el grupos tiene 6 o 7 integrantes, quedan 2 o 3 que podrán encargarse del desafío del código fuente.
 
 #### 1. COLORES
 
@@ -64,7 +51,7 @@ Quien se encargue de los colores, tendrá que:
 
 Quien se encargue de las fuentes tipográficas, tendrá que:
 
-2.1. hacer una búsqueda en el [catálogo de Google Fonts](https://fonts.google.com/); en caso de no encontrarla aquellas fuentes usadas en la infografía, tendrá que reemplazarlas por las disponibles de rasgos similares. 
+2.1. hacer una búsqueda en el [catálogo de Google Fonts](https://fonts.google.com/); en caso de no encontrarla aquellas fuentes usadas en el trabajo del módulo gráfico, tendrá que reemplazarlas por las disponibles de rasgos similares. 
 
 2.2. escoger pesos que permitan reconocer la relevancia de los títulos e inducir a un estado de enérgico reposo en la lectura de los párrafos.
 
@@ -94,7 +81,7 @@ Quien se encargue de los textos, tendrá que:
 
 Quien(es) se encargue(n) de los gráficos tendrá(n) que multiplicar su trabajo por 3 tipos de gráficos distintos:
 
-**4.1. gráficos figurativos (imágenes o ilustraciones)**: Crear tres versiones para cada una de estas imágenes, para responder a *smartphone (small)*, *tablet (medium)* o *desktop (large)*.
+**4.1. gráficos figurativos (fotografías o ilustraciones)**: Crear tres versiones para responder a *smartphone (small)*, *tablet (medium)* o *desktop (large)*.
 
 Para crear estas versiones, y debido a la gran [variedad de pantallas con tamaños y resoluciones](http://screensiz.es/), no existen recetas infalibles. Todo es una apuesta. Pero podemos quedar en un lugar suficientemente seguro considerando los tamaños de ancho de pantalla que usa [Bootstrap](https://getbootstrap.com/docs/5.0/layout/breakpoints/) como referencia para sus cambios entre *smartphone (small)*, *tablet (medium)* y *desktop (large)*, que son, respectivamente, 576px, 768px y 992px.
 
@@ -117,10 +104,10 @@ Quienes se encarguen del código fuente tendrán que editar una serie de descrip
 
 Recuerden que en una página web la descripción se hace habitualmente HTML y CSS, y la programación con JavaScript. A diseñadoras/es con interés por la gráfica, les conviene conocer SVG:
 
-- https://github.com/profesorfaco/digital/wiki/HTML
-- https://github.com/profesorfaco/digital/wiki/CSS
-- https://github.com/profesorfaco/digital/wiki/JavaScript
-- https://github.com/profesorfaco/digital/wiki/SVG
+- https://github.com/profesorfaco/modulo-digital/wiki/HTML
+- https://github.com/profesorfaco/modulo-digital/wiki/CSS
+- https://github.com/profesorfaco/modulo-digital/wiki/JavaScript
+- https://github.com/profesorfaco/modulo-digital/wiki/SVG
 
 - - - - - - - - - - - - - - - 
 
@@ -144,19 +131,17 @@ Cuentan con 10 días hábiles. Según la fecha de su entrega, podrán obtener bo
 
 | Día     | Fecha               | Bonificación |
 |:-------:|:--------------------|:------------:|
-|  1      | Lunes 05/07         | + 0.5 |
-|  2      | Martes 06/07        | + 0.4 |
-|  3      | Miércoles 07/07     | + 0.3 |
-|  4      | Jueves 08/07        | + 0.2 |
-|  5      | Viernes 09/07       | + 0.1 |
-|  6      | Lunes 12/07         | 0 |
-|  7      | Martes 13/07        | 0 |
-|  8      | Miércoles 14/07     | 0 |
-|  9      | Jueves 15/07        | 0 |
-|  10     | Viernes 16/07       | 0 |
+|  1      | Lunes 04/10         | + 0.5 |
+|  2      | Martes 05/10        | + 0.5 |
+|  3      | Miércoles 06/10     | + 0.5 |
+|  4      | Jueves 07/10        | + 0.5 |
+|  5      | Viernes 08/10       | + 0.5 |
+|  6      | Lunes 11/10         | 0 |
+|  7      | Martes 12/10        | 0 |
+|  8      | Miércoles 13/10     | 0 |
+|  9      | Jueves 14/10        | 0 |
+|  10     | Viernes 15/10       | 0 |
 
-Como indica la tabla, las bonificaciones se acaban el día viernes 9 de julio (a las 23:59 hrs.). **Pero pueden entregar hasta las 23.59 hrs. del viernes 16 de julio. Si un trabajo llega después de fecha y hora recién indicadas, obtiene nota mínima (1.0)**. 
+Como indica la tabla, las bonificaciones se acaban el día viernes 8 de octubre (a las 23:59 hrs.). **Pero pueden entregar hasta las 23.59 hrs. del viernes 15 de octubre. Si un trabajo llega después de fecha y hora recién indicadas, obtiene nota mínima (1.0)**. 
 
-El promedio del curso debe ingresarse al sistema el día miércoles 21 de julio, por lo que el equipo docente contará sólo con un par de días hábiles para evaluar este encargo y cerrar promedios.
-
-**¡A propósito de días hábiles! Si entregan en fin de semana (sábado 10 o domingo 11 de julio), la fecha de su entrega será el día hábil siguiente (lunes 12/07)**. De esta manera respetamos nuestros días libres y mantenemos el trabajo en los días hábiles.
+**Si entregan en fin de semana (sábado 9 o domingo 10 de octubre), la fecha de su entrega será el día hábil siguiente (lunes 11/10)**. De esta manera mantenemos el trabajo en los días hábiles, descansamos en fin de semana y cuidamos nuestra salud mental.
