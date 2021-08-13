@@ -1,4 +1,4 @@
-# PdP · Módulo Digital · 2021-1
+# PdP · Módulo Digital · 2021-2
 
 ### Plantilla para el trabajo grupal final del Módulo Digital
 
