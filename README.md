@@ -113,7 +113,7 @@ Recuerden que en una página web la descripción se hace habitualmente HTML y CS
 
 ### La entrega se hace vía e-mail
 
-- Un/a integrante del grupo debe enviar un e-mail a felipe.cortez@ucl **con copia a** pdelosri@uc.cl, meinfante@uc.cl y francisca.choy@uc.cl
+- Un/a integrante del grupo debe enviar un e-mail a felipe.cortez@ucl **con copia a** pdelosri@uc.cl, ffblumel@uc.cl y francisca.choy@uc.cl
 
 - Se recomienda que el asunto de su e-mail sea "ENTREGA FINAL PDP" 
 
