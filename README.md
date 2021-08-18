@@ -30,7 +30,7 @@ Si un grupo no usa la [plantilla](https://github.com/profesorfaco/modulo-digital
 
 - - - - - - - - - - - - - - - - 
 
-**Para abordar el trabajo, conviene que los grupos auto-organicen** considerando que corresponde resolver asuntos de colores, fuentes tipográficas, textos y gráficos; un/a integrantes puede encargarse de cada tema. Luego, si el grupos tiene 6 o 7 integrantes, quedan 2 o 3 que podrán encargarse del desafío del código fuente.
+**Para abordar el trabajo, conviene que los grupos se auto-organicen** considerando que corresponde resolver asuntos de colores, fuentes tipográficas, textos y gráficos; un/a integrantes puede encargarse de cada tema. Luego, si el grupos tiene 6 o 7 integrantes, quedan 2 o 3 que podrán encargarse del desafío del código fuente.
 
 #### 1. COLORES
 
