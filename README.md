@@ -4,9 +4,11 @@
 
 **Para el trabajo grupal final del Módulo Digital, nos basaremos en lo desarrollado para el Módulo Gráfico**. De allí tomaremos colores, fuentes tipográficas, textos y gráficos (figurativos, no figurativos y mixtos)
 
-Aprovechando tales elementos describiremos y programaremos una página web tipo [landing page](https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje). Para facilitar el trabajo con el código fuente de la página web, usaremos [Bootstrap](https://getbootstrap.com/).
+Aprovechando tales elementos describiremos y programaremos una página web tipo [landing page](https://es.wikipedia.org/wiki/P%C3%A1gina_de_aterrizaje). 
 
-Para escribir su código fuente según las convenciones de [Bootstrap](https://getbootstrap.com/), podrían usar uno de los siguientes editores:
+Para facilitar el trabajo con el código fuente de la página web, usaremos [Bootstrap](https://getbootstrap.com/).
+
+Para escribir su código fuente, atendiendo a las convenciones de [Bootstrap](https://getbootstrap.com/), podrían usar uno de los siguientes editores:
 
 - [Sublime Text](https://www.sublimetext.com/) 
 - [Atom.io](https://atom.io/)
@@ -16,13 +18,13 @@ Estos editores les entregan "pistas" mientras van escribiendo, tal como hacen lo
 
 **Para el trabajo grupal final del Módulo Digital, deben utilizar un [repositorio de organización](https://git-scm.com/book/es/v2/GitHub-Gesti%C3%B3n-de-una-organizaci%C3%B3n) en [GitHub](https://github.com/) y aprovechar [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).**
 
-En el repositorio de organización debe ser visible la contribución de cada integrante del grupo. Por esta razón, cada integrante del grupo debe tener su cuenta personal en [GitHub](https://github.com/) (si no tiene una, ahora puede crearla; si ya tenía una, aprovéchela).
+En el repositorio de organización debe ser visible la contribución de cada integrante del grupo. Por esta razón, cada integrante debe tener su cuenta personal en [GitHub](https://github.com/) (si no tiene una, ahora puede crearla; si ya tenía una, aprovéchela).
 
-**Veamos un ejemplo de repositorio de organización y contribución visible**: El proyecto Guemil tiene su [organización en GitHub](https://github.com/Guemil). Son 7 las personas que forman parte de esta organización. Si ingresan a cualquier repositorio, podrán ver quiénes han contribuido a su desarrollado; si ingresan al repositorio [Crea_Guemil](https://github.com/Guemil/Crea_Guemil), encontrarán que allí han contribuido: [tucormamirez](https://github.com/tucoramirez), [fjgajardo](https://github.com/fjgajardo) y [profesorfaco](https://github.com/profesorfaco). Sólo 3 de 7. No hay aportes de cada integrante de la organización.
+**Veamos un ejemplo de repositorio de organización y contribución visible**: El proyecto Guemil tiene su [organización en GitHub](https://github.com/Guemil). Son 7 las personas que forman parte de esta organización. Si ingresan a cualquier repositorio, podrán ver quiénes han contribuido a su desarrollado; si ingresan al repositorio [Crea_Guemil](https://github.com/Guemil/Crea_Guemil), encontrarán que allí han contribuido: [tucormamirez](https://github.com/tucoramirez), [fjgajardo](https://github.com/fjgajardo) y [profesorfaco](https://github.com/profesorfaco). Sólo 3 de 7. En tal caso, no hay contribución visible de cada integrante de la organización.
 
 - - - - - - - - - - - - - - - - 
 
-**Su trabajo grupal final del Módulo Digital será evaluado con [una rúbrica](https://docs.google.com/spreadsheets/d/1syeC8V3ej8MmKgB1F4mXcNk7yjakgOjMSv8cVh6qeO8/edit?usp=sharing) que está disponible en Google Drive**.
+**Su trabajo grupal final del Módulo Digital será evaluado con [una rúbrica](https://docs.google.com/spreadsheets/d/1_C5YwIV5uTjMRf7zwd2ph5JR34Yar_F2nLSdmPbV2CQ/edit?usp=sharing) que está disponible en Google Drive**.
 
 La rúbrica evalúa la modificación grupal de una [plantilla](https://github.com/profesorfaco/modulo-digital/tree/main/plantilla) que incluye dos páginas HTML, un estilo CSS y una carpeta con imágenes.
 
@@ -31,6 +33,8 @@ Si un grupo no usa la [plantilla](https://github.com/profesorfaco/modulo-digital
 - - - - - - - - - - - - - - - - 
 
 **Para abordar el trabajo, conviene que los grupos se auto-organicen** considerando que corresponde resolver asuntos de colores, fuentes tipográficas, textos y gráficos; un/a integrantes puede encargarse de cada tema. Luego, si el grupos tiene 6 o 7 integrantes, quedan 2 o 3 que podrán encargarse del desafío del código fuente.
+
+En lo que sigue, se recomienda que cada responsable haga la lectura que le corresponda: Si decides encargarte del color, lee sobre colores; si decides encargarte de fuentes tipográficas, lee sobre fuentes tipográficas, y así sucesivamente hasta el quinto subtítulo).
 
 #### 1. COLORES
 
@@ -94,7 +98,7 @@ Y lo que queda por cuidar es el peso de la imagen, y para ello está [la optimiz
 
 Una página web debería estar completamente cargada en 5 segundos → https://nbadiola.com/peso-ideal-fotografia-para-web/
 
-**4.2. gráficos mixtos**: Este gráfico debe completarse con un trabajo en Illustrator o InkScape, a exportar como SVG. En ese trabajo deben utilizar un gráfico figurativo en una capa y sobre ella tendrán que dibujar algo no figurativo. Con esto pueden, por ejemplo, intervenir [una imagen satelital](https://graphics.reuters.com/CALIFORNIA-WILDFIRES/xegvboxrypq/index.html).
+**4.2. gráficos mixtos**: Este gráfico debe completarse con un trabajo en Illustrator o InkScape, a exportar como SVG. En ese trabajo deben utilizar un gráfico figurativo en una capa y sobre ella tendrán que dibujar algo no figurativo. Con esto pueden, por ejemplo, intervenir [una imagen capturada por un satélite](https://graphics.reuters.com/CALIFORNIA-WILDFIRES/xegvboxrypq/index.html).
 
 **4.3. gráficos no figurativos**: Este gráfico debe completarse con datos reales y la utilización de [Chart.js](https://www.chartjs.org/). El despliegue más adecuado de datos es lo que debe ayudarles a decidir entre: [Line chart](https://www.chartjs.org/docs/latest/charts/line.html), [Bar Chart](https://www.chartjs.org/docs/latest/charts/bar.html), [Radar Chart](https://www.chartjs.org/docs/latest/charts/radar.html), [Doughnut/Pie Charts](https://www.chartjs.org/docs/latest/charts/doughnut.html), [Polar Area Chart](https://www.chartjs.org/docs/latest/charts/polar.html), [Bubble Chart](https://www.chartjs.org/docs/latest/charts/bubble.html) o [Scatter Chart](https://www.chartjs.org/docs/latest/charts/scatter.html). 
 
