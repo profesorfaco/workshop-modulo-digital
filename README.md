@@ -32,13 +32,13 @@ Si un grupo no usa la [plantilla](https://github.com/profesorfaco/modulo-digital
 
 - - - - - - - - - - - - - - - - 
 
-**Para abordar el trabajo, conviene que los grupos se auto-organicen** considerando que corresponde resolver asuntos de colores, fuentes tipográficas, textos y gráficos; un/a integrantes puede encargarse de cada tema. Luego, si el grupos tiene 6 o 7 integrantes, quedan 2 o 3 que podrán encargarse del desafío del código fuente.
+**Para abordar el trabajo, conviene que los grupos se auto-organicen** considerando que corresponde resolver asuntos de colores, fuentes tipográficas, textos y gráficos; un/a integrantes puede encargarse de cada tema. Luego, si el grupos tiene 6 o 7 integrantes, quedan 2 o 3 que podrán responsabilizarse del desafío del código fuente.
 
-En lo que sigue, se recomienda que cada responsable haga la lectura que le corresponda: Si decides encargarte del color, lee sobre colores; si decides encargarte de fuentes tipográficas, lee sobre fuentes tipográficas; y así sucesivamente hasta el quinto subtítulo).
+En lo que sigue, se recomienda que cada responsable haga la lectura que le corresponda: Si decides responsabilizarte del color, lee sobre colores; si decides responsabilizarte de fuentes tipográficas, lee sobre fuentes tipográficas; y así hasta el quinto subtítulo).
 
 #### 1. COLORES
 
-Quien se encargue de los colores, tendrá que:
+Quien se responsabilice de los colores, tendrá que:
 
 1.1. transformar sus colores para impresión (Pantone/CMYK) por equivalentes para pantalla (HEX/RGB) → https://www.pantone.com/color-finder/
 
@@ -53,7 +53,7 @@ Quien se encargue de los colores, tendrá que:
 
 #### 2. FUENTES TIPOGRÁFICAS 
 
-Quien se encargue de las fuentes tipográficas, tendrá que:
+Quien se responsabilice de las fuentes tipográficas, tendrá que:
 
 2.1. hacer una búsqueda en el [catálogo de Google Fonts](https://fonts.google.com/); en caso de no encontrarla aquellas fuentes usadas en el trabajo del módulo gráfico, tendrá que reemplazarlas por las disponibles de rasgos similares. 
 
@@ -68,7 +68,7 @@ Quien se encargue de las fuentes tipográficas, tendrá que:
 
 #### 3. TEXTOS
 
-Quien se encargue de los textos, tendrá que:
+Quien se responsabilice de los textos, tendrá que:
 
 3.1. revisar la credibilidad del texto original → http://credibility.stanford.edu/guidelines/index.html
 
@@ -83,7 +83,7 @@ Quien se encargue de los textos, tendrá que:
 
 #### 4. GRÁFICOS (FIGURATIVO, NO FIGURATIVO Y MIXTO)
 
-Quien(es) se encargue(n) de los gráficos tendrá(n) que multiplicar su trabajo por 3 tipos de gráficos distintos:
+Quien(es) se responsabilice(n) de los gráficos tendrá(n) que multiplicar su trabajo por 3 tipos de gráficos distintos:
 
 **4.1. gráficos figurativos (fotografías o ilustraciones)**: Crear tres versiones para responder a *smartphone (small)*, *tablet (medium)* o *desktop (large)*.
 
@@ -104,9 +104,9 @@ Una página web debería estar completamente cargada en 5 segundos → https://n
 
 #### 5. CÓDIGO FUENTE
 
-Quienes se encarguen del código fuente tendrán que editar una serie de descripciones e instrucciones en el lenguaje pertinente. 
+Quienes se responsabilicen del código fuente tendrán que editar una serie de descripciones e instrucciones en el lenguaje pertinente. 
 
-Recuerden que en una página web la descripción se hace habitualmente HTML y CSS, y la programación con JavaScript. A diseñadoras/es con interés por la gráfica, les conviene conocer SVG:
+Recuerden que en una página web la descripción se hace habitualmente HTML y CSS, y la programación con JavaScript. Además, a diseñadoras/es con interés por la gráfica, les conviene conocer SVG:
 
 - https://github.com/profesorfaco/modulo-digital/wiki/HTML
 - https://github.com/profesorfaco/modulo-digital/wiki/CSS
@@ -117,9 +117,9 @@ Recuerden que en una página web la descripción se hace habitualmente HTML y CS
 
 ### La entrega se hace vía e-mail
 
-- Un/a integrante del grupo debe enviar un e-mail a felipe.cortez@ucl **con copia a** pdelosri@uc.cl, ffblumel@uc.cl y francisca.choy@uc.cl
+- Sólo un/a integrante del grupo debe enviar un e-mail a felipe.cortez@ucl **con copia a** pdelosri@uc.cl, ffblumel@uc.cl y francisca.choy@uc.cl
 
-- Se recomienda que el asunto de su e-mail sea "ENTREGA FINAL PDP" 
+- Se recomienda que el asunto de su e-mail sea "ENTREGA DIGITAL PDP" 
 
 - En el cuerpo del correo tiene que indicar la URL del repositorio de la organización y la URL de su GitHub Page. Noten las diferencias de ambas:
 
