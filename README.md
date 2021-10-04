@@ -140,12 +140,12 @@ Cuentan con 10 días hábiles. Según la fecha de su entrega, podrán obtener bo
 |  3      | Miércoles 06/10     | + 0.5 |
 |  4      | Jueves 07/10        | + 0.5 |
 |  5      | Viernes 08/10       | + 0.5 |
-|  6      | Lunes 11/10         | 0 |
-|  7      | Martes 12/10        | 0 |
-|  8      | Miércoles 13/10     | 0 |
+|  6      | Lunes 11/10         | + 0.5 |
+|  7      | Martes 12/10        | + 0.5 |
+|  8      | Miércoles 13/10     | + 0.5 |
 |  9      | Jueves 14/10        | 0 |
 |  10     | Viernes 15/10       | 0 |
 
-Como indica la tabla, las bonificaciones se acaban el día viernes 8 de octubre (a las 23:59 hrs.). **Pero pueden entregar hasta las 23.59 hrs. del viernes 15 de octubre. Si un trabajo llega después de fecha y hora recién indicadas, obtiene nota mínima (1.0)**. 
+Como indica la tabla, las bonificaciones se acaban el día miércoles 13 de octubre (a las 23:59 hrs.). **Pero pueden entregar hasta las 23.59 hrs. del viernes 15 de octubre. Si un trabajo llega después de fecha y hora recién indicadas, obtiene nota mínima (1.0)**. 
 
 **Si entregan en fin de semana (sábado 9 o domingo 10 de octubre), la fecha de su entrega será el día hábil siguiente (lunes 11/10)**. De esta manera mantenemos el trabajo en los días hábiles, descansamos en fin de semana y cuidamos nuestra salud mental.
